@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="form-group"
+  >
+    <label
+      class="form-label"
+      for="test"
+    >
+      label
+    </label>
+    <input
+      class="form-control"
+      name="test"
+      placeholder="placeholder"
+    />
+  </div>
+</DocumentFragment>
+`;

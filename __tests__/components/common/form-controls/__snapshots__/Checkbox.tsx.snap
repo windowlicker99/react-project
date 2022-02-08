@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="checkbox"
+  >
+    <label
+      class="checkbox-label"
+      for="test"
+    >
+      <input
+        checked=""
+        class="checkbox-input"
+        id="test"
+        name="test"
+        type="checkbox"
+      />
+      <span
+        class="checkbox-mark"
+      />
+      <span
+        class="checkbox-title"
+      >
+        Test
+      </span>
+    </label>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,646 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotificationsPage tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="content"
+    id="notifications"
+  >
+    <div
+      class="box page-controls"
+    >
+      <div
+        class="page-controls-content flex-end"
+      >
+        <div
+          class="page-controls-item"
+        >
+          <div
+            class="mr-15"
+          >
+            <div
+              class="form-group"
+            >
+              <label
+                class="form-label search-label"
+                for="exampleFormControlInput1"
+              >
+                What are you looking for?
+              </label>
+              <div
+                class="search-group"
+              >
+                <div
+                  class="search-icon"
+                >
+                  <span
+                    class="icon-loupe"
+                  />
+                </div>
+                <input
+                  class="form-control search-input"
+                  id="exampleFormControlInput1"
+                  placeholder="Search"
+                  type="email"
+                  value=""
+                />
+                <button
+                  class="search-btn"
+                  type="button"
+                >
+                  <span
+                    class="icon-cross"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="mr-15"
+          >
+            <button
+              class="btn-xs-primary"
+              type="button"
+            >
+              <span
+                class="icon-filter-blue"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="page-filter"
+      >
+        <div
+          class="page-filter-inner"
+        />
+        <div
+          class="page-filter-btn"
+        >
+          <button
+            class="btn btn-xs-secondary mr-15"
+            type="button"
+          >
+            <span
+              class="btn-icon icon-close"
+            />
+            <span
+              class="btn-text"
+            />
+          </button>
+          <button
+            class="btn btn-lg-outline"
+            type="button"
+          >
+            <span
+              class="btn-icon "
+            />
+            <span
+              class="btn-text"
+            >
+              Apply
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-table notifications-content"
+    >
+      <table
+        class="table"
+      >
+        <tbody
+          class="table-body"
+        >
+          <tr
+            class="table-row notification-message active"
+          >
+            <td
+              class="table-col "
+            >
+              <div
+                class="notification-icon"
+              />
+            </td>
+            <td
+              class="table-col"
+            >
+              The implementation period of 
+              <span
+                class="text-bold"
+              >
+                Organization\`s employees security practices
+              </span>
+               control for Threat 1234 has expired at | 
+              <span
+                class="text-grey"
+              >
+                Brand Model Platform Element Name
+              </span>
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="date"
+              >
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-calendar"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    01/01/2021
+                  </span>
+                </div>
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-time"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    12:00 AM
+                  </span>
+                </div>
+              </div>
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="btn-group"
+              >
+                <button
+                  class="btn btn-xs-primary mr-15"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-architecture-blue"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+                <button
+                  class="btn-xs-danger"
+                  type="button"
+                >
+                  <span
+                    class="icon-delete"
+                  />
+                </button>
+              </div>
+            </td>
+          </tr>
+          <tr
+            class="table-row notification-assigned active"
+          >
+            <td
+              class="table-col "
+            >
+              <div
+                class="notification-icon"
+              />
+            </td>
+            <td
+              class="table-col"
+            >
+              The implementation period of Organization\`s employees security practices control for Threat 1234 has expired at | Brand Model Platform Element Name
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="date"
+              >
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-calendar"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    01/01/2021
+                  </span>
+                </div>
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-time"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    12:00 AM
+                  </span>
+                </div>
+              </div>
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="btn-group"
+              >
+                <button
+                  class="btn btn-xs-primary mr-15"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-architecture-blue"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+                <button
+                  class="btn btn-xs-danger"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-delete"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+              </div>
+            </td>
+          </tr>
+          <tr
+            class="table-row notification-risk active"
+          >
+            <td
+              class="table-col "
+            >
+              <div
+                class="notification-icon"
+              />
+            </td>
+            <td
+              class="table-col"
+            >
+              The implementation period of Organization\`s employees security practices control for Threat 1234 has expired at | Brand Model Platform Element Name
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="date"
+              >
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-calendar"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    01/01/2021
+                  </span>
+                </div>
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-time"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    12:00 AM
+                  </span>
+                </div>
+              </div>
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="btn-group"
+              >
+                <button
+                  class="btn btn-xs-primary mr-15"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-architecture-blue"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+                <button
+                  class="btn btn-xs-danger"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-delete"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+              </div>
+            </td>
+          </tr>
+          <tr
+            class="table-row notification-warning active"
+          >
+            <td
+              class="table-col "
+            >
+              <div
+                class="notification-icon"
+              />
+            </td>
+            <td
+              class="table-col"
+            >
+              The implementation period of Organization\`s employees security practices control for Threat 1234 has expired at | Brand Model Platform Element Name
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="date"
+              >
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-calendar"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    01/01/2021
+                  </span>
+                </div>
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-time"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    12:00 AM
+                  </span>
+                </div>
+              </div>
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="btn-group"
+              >
+                <button
+                  class="btn btn-xs-primary mr-15"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-architecture-blue"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+                <button
+                  class="btn btn-xs-danger"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-delete"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+              </div>
+            </td>
+          </tr>
+          <tr
+            class="table-row notification-risk "
+          >
+            <td
+              class="table-col "
+            >
+              <div
+                class="notification-icon"
+              />
+            </td>
+            <td
+              class="table-col"
+            >
+              The implementation period of Organization\`s employees security practices control for Threat 1234 has expired at | Brand Model Platform Element Name
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="date"
+              >
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-calendar"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    01/01/2021
+                  </span>
+                </div>
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-time"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    12:00 AM
+                  </span>
+                </div>
+              </div>
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="btn-group"
+              >
+                <button
+                  class="btn btn-xs-primary mr-15"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-architecture-blue"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+                <button
+                  class="btn btn-xs-danger disabled"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-delete"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+              </div>
+            </td>
+          </tr>
+          <tr
+            class="table-row notification-risk "
+          >
+            <td
+              class="table-col "
+            >
+              <div
+                class="notification-icon"
+              />
+            </td>
+            <td
+              class="table-col"
+            >
+              The implementation period of Organization\`s employees security practices control for Threat 1234 has expired at | Brand Model Platform Element Name
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="date"
+              >
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-calendar"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    01/01/2021
+                  </span>
+                </div>
+                <div
+                  class="date-item"
+                >
+                  <div
+                    class="date-icon"
+                  >
+                    <span
+                      class="icon-time"
+                    />
+                  </div>
+                  <span
+                    class="date-data"
+                  >
+                    12:00 AM
+                  </span>
+                </div>
+              </div>
+            </td>
+            <td
+              class="table-col"
+            >
+              <div
+                class="btn-group"
+              >
+                <button
+                  class="btn btn-xs-primary mr-15"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-architecture-blue"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+                <button
+                  class="btn btn-xs-danger"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-delete"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</DocumentFragment>
+`;

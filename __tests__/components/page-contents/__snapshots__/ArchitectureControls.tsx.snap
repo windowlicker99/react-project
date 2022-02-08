@@ -1,0 +1,355 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArchitectureControls tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="box page-controls"
+  >
+    <div
+      class="page-controls-content"
+    >
+      <div
+        class="page-controls-item"
+      >
+        <div
+          class="mr-15"
+        >
+          <button
+            class="btn btn-lg-primary"
+            type="button"
+          >
+            <span
+              class="btn-icon icon-plus"
+            />
+            <span
+              class="btn-text"
+            >
+              Create Domain
+            </span>
+          </button>
+        </div>
+        <div
+          class="mr-15"
+        >
+          <button
+            class="btn btn-lg-outline"
+            type="button"
+          >
+            <span
+              class="btn-icon "
+            />
+            <span
+              class="btn-text"
+            >
+              View History
+            </span>
+          </button>
+        </div>
+        <div
+          class="mr-15"
+        >
+          <button
+            class="btn btn-xs-primary"
+            type="button"
+          >
+            <span
+              class="btn-icon icon-filter-blue"
+            />
+            <span
+              class="btn-text"
+            />
+          </button>
+        </div>
+        <div
+          class="mr-15"
+        >
+          <button
+            class="btn btn-xs-secondary"
+            type="button"
+          >
+            <span
+              class="btn-icon icon-refresh"
+            />
+            <span
+              class="btn-text"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="page-controls-item"
+      >
+        <div
+          class="page-controls-architecture"
+        >
+          <div
+            class="page-controls-data"
+          >
+            <div
+              class="page-controls-info"
+            >
+              <span
+                class="page-controls-name"
+              >
+                Skoda
+              </span>
+              2021 TSI | MQB37W
+            </div>
+          </div>
+          <div
+            class="page-controls-data"
+          >
+            Risk Level
+            <div
+              class="badge default "
+            >
+              No Data
+            </div>
+          </div>
+          <div
+            class="page-controls-data"
+          >
+            Progress
+            <div
+              class="chart"
+            >
+              <div
+                class="recharts-responsive-container"
+                style="width: 100%; height: 70px;"
+              />
+            </div>
+          </div>
+          <div
+            class="page-controls-data"
+          >
+            <div
+              class="legend Eth"
+            >
+              <div
+                class="legend-badge"
+              >
+                Eth
+              </div>
+              <div
+                class="legend-name"
+              >
+                Ethernet
+              </div>
+            </div>
+            <div
+              class="legend CAN"
+            >
+              <div
+                class="legend-badge"
+              >
+                CAN
+              </div>
+              <div
+                class="legend-name"
+              >
+                CAN
+              </div>
+            </div>
+            <div
+              class="legend LIN"
+            >
+              <div
+                class="legend-badge"
+              >
+                LIN
+              </div>
+              <div
+                class="legend-name"
+              >
+                LIN
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="page-filter"
+    >
+      <div
+        class="page-filter-inner"
+      >
+        <div
+          class="page-filter-item"
+        >
+          <div
+            class="form-group"
+          >
+            <label
+              class="form-label"
+              for="exampleFormControlInput1"
+            >
+              Model
+            </label>
+            <div
+              class="select-component css-2b097c-container"
+            >
+              <span
+                aria-atomic="false"
+                aria-live="polite"
+                aria-relevant="additions text"
+                class="css-1f43avz-a11yText-A11yText"
+              />
+              <div
+                class="react-select__control css-1pgkwyd-control"
+              >
+                <div
+                  class="react-select__value-container css-g1d714-ValueContainer"
+                >
+                  <div
+                    class="react-select__placeholder css-oco7ot-placeholder"
+                  >
+                    Model
+                  </div>
+                  <div
+                    class="css-b8ldur-Input"
+                  >
+                    <div
+                      class="react-select__input"
+                      style="display: inline-block;"
+                    >
+                      <input
+                        aria-autocomplete="list"
+                        autocapitalize="none"
+                        autocomplete="off"
+                        autocorrect="off"
+                        id="react-select-4-input"
+                        spellcheck="false"
+                        style="box-sizing: content-box; width: 2px; border: 0px; opacity: 1; outline: 0; padding: 0px;"
+                        tabindex="0"
+                        type="text"
+                        value=""
+                      />
+                      <div
+                        style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-family: -webkit-small-control; letter-spacing: normal; text-transform: none;"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="react-select__indicators css-1hb7zxy-IndicatorsContainer"
+                >
+                  <div
+                    aria-hidden="true"
+                    class="react-select__indicator react-select__dropdown-indicator css-tlfecz-indicatorContainer"
+                  >
+                    <div
+                      class="form-arrow icon-arrow-border-down"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="page-filter-item"
+        >
+          <div
+            class="form-group"
+          >
+            <label
+              class="form-label"
+              for="exampleFormControlInput1"
+            >
+              Platform
+            </label>
+            <div
+              class="select-component css-2b097c-container"
+            >
+              <span
+                aria-atomic="false"
+                aria-live="polite"
+                aria-relevant="additions text"
+                class="css-1f43avz-a11yText-A11yText"
+              />
+              <div
+                class="react-select__control css-1pgkwyd-control"
+              >
+                <div
+                  class="react-select__value-container css-g1d714-ValueContainer"
+                >
+                  <div
+                    class="react-select__placeholder css-oco7ot-placeholder"
+                  >
+                    Platform
+                  </div>
+                  <div
+                    class="css-b8ldur-Input"
+                  >
+                    <div
+                      class="react-select__input"
+                      style="display: inline-block;"
+                    >
+                      <input
+                        aria-autocomplete="list"
+                        autocapitalize="none"
+                        autocomplete="off"
+                        autocorrect="off"
+                        id="react-select-5-input"
+                        spellcheck="false"
+                        style="box-sizing: content-box; width: 2px; border: 0px; opacity: 1; outline: 0; padding: 0px;"
+                        tabindex="0"
+                        type="text"
+                        value=""
+                      />
+                      <div
+                        style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-family: -webkit-small-control; letter-spacing: normal; text-transform: none;"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="react-select__indicators css-1hb7zxy-IndicatorsContainer"
+                >
+                  <div
+                    aria-hidden="true"
+                    class="react-select__indicator react-select__dropdown-indicator css-tlfecz-indicatorContainer"
+                  >
+                    <div
+                      class="form-arrow icon-arrow-border-down"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="page-filter-btn"
+      >
+        <button
+          class="btn btn-xs-secondary mr-15"
+          type="button"
+        >
+          <span
+            class="btn-icon icon-close"
+          />
+          <span
+            class="btn-text"
+          />
+        </button>
+        <button
+          class="btn btn-lg-outline"
+          type="button"
+        >
+          <span
+            class="btn-icon "
+          />
+          <span
+            class="btn-text"
+          >
+            Apply
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

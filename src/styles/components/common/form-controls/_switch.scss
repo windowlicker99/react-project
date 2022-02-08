@@ -1,0 +1,91 @@
+.switch {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-radius: 5px;
+  position: relative;
+
+  .form-input-switch & {
+    position: absolute;
+    right: 9px;
+    bottom: 9px;
+  }
+}
+
+.switch-input {
+  position: absolute;
+  opacity: 0;
+}
+
+.switch-label {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.switch-trigger {
+  flex: none;
+  position: relative;
+  width: 58px;
+  height: 22px;
+  border-radius: 11px;
+  transition: all 0.3s;
+  border: 1px solid $grey-light;
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  &::before {
+    width: 16px;
+    height: 16px;
+    left: 3px;
+    background: $white;
+    border-radius: 50%;
+    z-index: 0;
+    transition: all $transition;
+    background: $grey-light;
+  }
+
+  &::after {
+    content: "No";
+    color: $grey-light;
+    right: 11px;
+    font-size: 12px;
+  }
+}
+
+.switch-input:checked + .switch-label .switch-trigger {
+  background: $blue;
+}
+
+.switch-input:checked + .switch-label .switch-trigger::before {
+  right: 3px;
+  left: auto;
+  background: $white;
+}
+
+.switch-input:checked + .switch-label .switch-trigger::after {
+  content: "Yes";
+  left: 11px;
+  right: auto;
+  color: $white;
+}
+
+.switch-text {
+  flex: 1 1;
+  color: $grey;
+  font-size: 12px;
+  line-height: 1.67;
+  text-align: left;
+  display: inline-block;
+
+  &:not(:empty) {
+    margin-right: 32px;
+  }
+}

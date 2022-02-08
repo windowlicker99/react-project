@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Textarea tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="form-group"
+  >
+    <label
+      class="form-label"
+      for="textarea"
+    >
+      Tell us your story:
+    </label>
+    <textarea
+      class="form-control textarea"
+      id="textarea"
+      name="story"
+      placeholder="Add a message (optional)"
+      rows="10"
+    />
+  </div>
+</DocumentFragment>
+`;

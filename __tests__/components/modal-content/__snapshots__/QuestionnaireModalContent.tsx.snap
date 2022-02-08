@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionnaireModalContent tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="modal-info"
+  >
+    <ul
+      class="questionnaire-list"
+    >
+      <li
+        class="questionnaire-item"
+      >
+        <div
+          class="switch"
+        >
+          <input
+            class="switch-input"
+            type="checkbox"
+          />
+          <label
+            class="switch-label"
+          >
+            <span
+              class="switch-text"
+            >
+              Vulnerability may affect the vehicle cyber security level?
+            </span>
+            <span
+              class="switch-trigger"
+            />
+          </label>
+        </div>
+      </li>
+      <li
+        class="questionnaire-item"
+      >
+        <div
+          class="switch"
+        >
+          <input
+            class="switch-input"
+            type="checkbox"
+          />
+          <label
+            class="switch-label"
+          >
+            <span
+              class="switch-text"
+            >
+              OTA Scheduled?
+            </span>
+            <span
+              class="switch-trigger"
+            />
+          </label>
+        </div>
+      </li>
+      <li
+        class="questionnaire-item"
+      >
+        <div
+          class="switch"
+        >
+          <input
+            class="switch-input"
+            type="checkbox"
+          />
+          <label
+            class="switch-label"
+          >
+            <span
+              class="switch-text"
+            >
+              Recall scheduled?
+            </span>
+            <span
+              class="switch-trigger"
+            />
+          </label>
+        </div>
+      </li>
+      <li
+        class="questionnaire-item"
+      >
+        <div
+          class="switch"
+        >
+          <input
+            class="switch-input"
+            type="checkbox"
+          />
+          <label
+            class="switch-label"
+          >
+            <span
+              class="switch-text"
+            >
+              Maintenance scheduled?
+            </span>
+            <span
+              class="switch-trigger"
+            />
+          </label>
+        </div>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

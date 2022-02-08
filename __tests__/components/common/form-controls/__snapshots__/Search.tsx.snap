@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="form-group"
+  >
+    <label
+      class="form-label search-label"
+      for="exampleFormControlInput1"
+    >
+      label
+    </label>
+    <div
+      class="search-group"
+    >
+      <div
+        class="search-icon"
+      >
+        <span
+          class="icon-loupe"
+        />
+      </div>
+      <input
+        class="form-control search-input"
+        id="exampleFormControlInput1"
+        placeholder="placeholder"
+        type="email"
+        value=""
+      />
+      <button
+        class="search-btn"
+        type="button"
+      >
+        <span
+          class="icon-cross"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

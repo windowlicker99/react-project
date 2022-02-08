@@ -1,0 +1,39 @@
+.tooltip-custom {
+    width: 350px;
+    height: 300px;
+    background-color: $white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 23px -2px rgba(96, 109, 149, 0.35);
+}
+
+.tooltip-custom-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.tooltip-custom-heading {
+    flex: 1 1;
+    margin-bottom: 10px;
+}
+
+.tooltip-custom-body {
+    flex: 1 1;
+    overflow: auto;
+}
+
+.tooltip-custom-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tooltip-paragraph {
+    line-height: 1.64;
+    &:not(:last-child) {
+        padding-bottom: 10px;
+        border-bottom: 1px solid $grey-light;
+        margin-bottom: 10px;
+    }
+}

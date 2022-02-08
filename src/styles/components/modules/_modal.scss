@@ -1,0 +1,146 @@
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1055;
+  width: 100%;
+  height: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  outline: 0;
+  transition: all $transition;
+
+  &.show {
+    height: 100%;
+    background-color: rgba($color: #000000, $alpha: 0.5);
+  }
+}
+
+.modal-aside {
+  justify-content: flex-end;
+}
+
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  pointer-events: auto;
+  background-color: $white;
+  background-clip: padding-box;
+  border-radius: 15px;
+  outline: 0;
+  max-width: 640px;
+
+  .modal-aside & {
+    height: 100%;
+    border-radius: 0;
+    min-width: 640px;
+  }
+}
+
+.modal-header {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  padding-bottom: 0;
+  flex: 0 0 auto;
+
+  .modal-aside & {
+    background-color: $blue-light;
+    border-bottom: $grey-light;
+  }
+}
+
+.modal-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .modal-aside & {
+    margin-bottom: 42px;
+  }
+}
+
+.modal-header-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-title {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+
+.modal-subtitle {
+  font-size: 14px;
+  font-weight: 500;
+  color: $grey;
+}
+
+.modal-body {
+  flex: 1 1 auto;
+  overflow: auto;
+  padding: 40px;
+}
+
+.modal-footer {
+  flex: 0 0 auto;
+  padding: 40px;
+
+  .modal-aside & {
+    background-color: $blue-light
+  }
+
+  & > * {
+    flex: 1 1 auto;
+  }
+}
+
+.modal-info {
+  display: flex;
+  flex-direction: column;
+  width: 345px;
+  line-height: 24px;
+  gap: 20px;
+
+  &.center {
+    align-items: center;
+    text-align: center;
+  }
+}
+
+.modal-img {
+  width: 120px;
+  height: 102px;
+  margin-bottom: 30px;
+}
+
+.modal-footer-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modal-footer-info {
+  color: $grey;
+  font-size: 12px;
+  margin-left: 20px;
+  line-height: 1.67;
+}
+
+.modal-footer-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 300px;
+}
+
+.modal-box {
+  @extend .grid-box-columns;
+}

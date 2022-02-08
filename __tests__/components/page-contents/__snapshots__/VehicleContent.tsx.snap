@@ -1,0 +1,358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VehicleContent tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="box-table"
+  >
+    <table
+      class="table"
+      role="table"
+    >
+      <thead
+        class="table-header"
+      >
+        <tr
+          class="table-row"
+          role="row"
+        >
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                <button
+                  class="btn btn-xs-primary"
+                  currentitem="false"
+                  data-for="expandBtn"
+                  data-tip="true"
+                  type="button"
+                >
+                  <span
+                    class="btn-icon icon-arrow-line"
+                  />
+                  <span
+                    class="btn-text"
+                  />
+                </button>
+                <div
+                  class="__react_component_tooltip expandBtn place-top type-dark"
+                  data-id="tooltip"
+                  id="expandBtn"
+                >
+                  <style
+                    aria-hidden="true"
+                  >
+                    
+  	.expandBtn {
+	    color: #fff;
+	    background: #222;
+	    border: 1px solid transparent;
+  	}
+
+  	.expandBtn.place-top {
+        margin-top: -10px;
+    }
+    .expandBtn.place-top::before {
+        border-top: 8px solid transparent;
+    }
+    .expandBtn.place-top::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        bottom: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-top-color: #222;
+        border-top-style: solid;
+        border-top-width: 6px;
+    }
+
+    .expandBtn.place-bottom {
+        margin-top: 10px;
+    }
+    .expandBtn.place-bottom::before {
+        border-bottom: 8px solid transparent;
+    }
+    .expandBtn.place-bottom::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        top: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-bottom-color: #222;
+        border-bottom-style: solid;
+        border-bottom-width: 6px;
+    }
+
+    .expandBtn.place-left {
+        margin-left: -10px;
+    }
+    .expandBtn.place-left::before {
+        border-left: 8px solid transparent;
+    }
+    .expandBtn.place-left::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        right: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-left-color: #222;
+        border-left-style: solid;
+        border-left-width: 6px;
+    }
+
+    .expandBtn.place-right {
+        margin-left: 10px;
+    }
+    .expandBtn.place-right::before {
+        border-right: 8px solid transparent;
+    }
+    .expandBtn.place-right::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        left: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-right-color: #222;
+        border-right-style: solid;
+        border-right-width: 6px;
+    }
+  
+                  </style>
+                  Expand All
+                </div>
+              </span>
+              <div
+                class="table-filter"
+              />
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                BRAND
+              </span>
+              <div
+                class="table-filter"
+              >
+                <button
+                  class="table-filter-btn"
+                  type="button"
+                >
+                  <span
+                    class="icon-arrow-full-up"
+                  />
+                </button>
+                <button
+                  class="table-filter-btn"
+                  type="button"
+                >
+                  <span
+                    class="icon-arrow-full-down"
+                  />
+                </button>
+              </div>
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                MODEL
+              </span>
+              <div
+                class="table-filter"
+              >
+                <button
+                  class="table-filter-btn"
+                  type="button"
+                >
+                  <span
+                    class="icon-arrow-full-up"
+                  />
+                </button>
+                <button
+                  class="table-filter-btn"
+                  type="button"
+                >
+                  <span
+                    class="icon-arrow-full-down"
+                  />
+                </button>
+              </div>
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                PLATFORM
+              </span>
+              <div
+                class="table-filter"
+              >
+                <button
+                  class="table-filter-btn"
+                  type="button"
+                >
+                  <span
+                    class="icon-arrow-full-up"
+                  />
+                </button>
+                <button
+                  class="table-filter-btn"
+                  type="button"
+                >
+                  <span
+                    class="icon-arrow-full-down"
+                  />
+                </button>
+              </div>
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                CURRENT PHASE
+              </span>
+              <div
+                class="table-filter"
+              />
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                RISK LEVEL
+              </span>
+              <div
+                class="table-filter"
+              />
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                COMPLIANCE LEVEL
+              </span>
+              <div
+                class="table-filter"
+              />
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                RA PROGRESS
+              </span>
+              <div
+                class="table-filter"
+              />
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                LAST UPDATE
+              </span>
+              <div
+                class="table-filter"
+              />
+            </div>
+          </th>
+          <th
+            class="table-col"
+            colspan="1"
+            role="columnheader"
+          >
+            <div
+              class="table-header-inner"
+            >
+              <span
+                class="table-header-title"
+              >
+                ACTIONS
+              </span>
+              <div
+                class="table-filter"
+              />
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="table-body"
+        role="rowgroup"
+      />
+    </table>
+  </div>
+</DocumentFragment>
+`;

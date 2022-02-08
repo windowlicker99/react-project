@@ -1,0 +1,16 @@
+.list-cell {
+    color: $grey;
+    position: relative;
+
+    &:before {
+        content: '';
+        position: absolute;
+        left: -40px;
+        top: 50%;
+        transform: translateY(-50%);
+        display: block;
+        width: 1px;
+        height: 20px;
+        background-color: $grey;
+    }
+}

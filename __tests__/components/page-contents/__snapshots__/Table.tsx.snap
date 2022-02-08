@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <table
+    class="table"
+    role="table"
+  >
+    <thead
+      class="table-header"
+    >
+      <tr
+        class="table-row"
+        role="row"
+      >
+        <th
+          class="table-col"
+          colspan="1"
+          role="columnheader"
+        >
+          <div
+            class="table-header-inner"
+          >
+            <span
+              class="table-header-title"
+            >
+              test
+            </span>
+            <div
+              class="table-filter"
+            />
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      class="table-body"
+      role="rowgroup"
+    />
+  </table>
+</DocumentFragment>
+`;

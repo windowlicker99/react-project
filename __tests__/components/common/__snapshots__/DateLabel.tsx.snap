@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Date tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="date"
+  >
+    <div
+      class="date-item"
+    >
+      <div
+        class="date-icon"
+      >
+        <span
+          class="icon-calendar"
+        />
+      </div>
+      <span
+        class="date-data"
+      >
+        10/11/2021
+      </span>
+    </div>
+    <div
+      class="date-item"
+    >
+      <div
+        class="date-icon"
+      >
+        <span
+          class="icon-time"
+        />
+      </div>
+      <span
+        class="date-data"
+      >
+        12:00 AM
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

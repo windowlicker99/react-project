@@ -1,0 +1,17 @@
+.customise-move {
+  display: none; // temporarily
+  width: 8px;
+  height: 10px;
+  margin-right: 8px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.customise-item {
+  display: flex;
+  align-items: center;
+  &:not(:last-child) {
+    margin-bottom: 20px;
+  }
+}

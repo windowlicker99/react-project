@@ -1,0 +1,86 @@
+.progress-points {
+    display: flex;
+    margin-top: 40px;
+
+    &.vertical {
+        flex-direction: column;
+        color: $black;
+    }
+}
+
+.progres-points-item {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1;
+    position: relative;
+    border-top: 5px solid;
+    border-color: $blue-light;
+    padding-top: 18px;
+
+    &::before {
+        content: '';
+        position: absolute;
+        top: -13px;
+        left: -1px;
+        border-color: $blue-light;
+        width: 20px;
+        height: 20px;
+        border-radius: 100%;
+        border-width: 4px;
+        border-style: solid;
+        background-color: $white;
+    }
+
+    &.active {
+        border-color: $sky-blue;
+
+        &::before {
+            border-color: $sky-blue;
+        }
+    }
+
+    &.in-progress {
+        border-color: $red-light;
+
+        &::before {
+            border-color: $red-light;
+        }
+    }
+
+    .vertical & {
+        flex: auto;
+        border-top: 0;
+        border-left: 3px solid $blue-light;
+        padding-top: 0;
+        padding-left: 15px;
+        min-height: 55px;
+
+        &::before {
+            top: 1px;
+            left: -8px;
+            width: 12px;
+            height: 12px;
+            border-width: 3px;
+        }
+    }
+
+    &:last-of-type {
+        border-color: transparent;
+    }
+}
+
+.progres-point-title {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.progres-point-subtitle {
+    font-size: 12px;
+    color: $grey;
+
+    .in-progress & {
+        color: $red-light;
+    }
+}

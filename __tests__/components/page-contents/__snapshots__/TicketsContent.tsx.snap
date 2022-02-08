@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TicketsContent tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="box-wrap tickets-content"
+  >
+    <div
+      class="box-col open"
+    >
+      <div
+        class="box-col-header"
+      >
+        <div
+          class="heading"
+        >
+          <div
+            class="heading-info"
+          >
+            <div
+              class="badge-round sky-blue"
+            />
+            <span
+              class="heading-title"
+            >
+              Open
+            </span>
+            <span
+              class="heading-data"
+            >
+              (0) 
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-col-content"
+      />
+    </div>
+    <div
+      class="box-col progress"
+    >
+      <div
+        class="box-col-header"
+      >
+        <div
+          class="heading"
+        >
+          <div
+            class="heading-info"
+          >
+            <div
+              class="badge-round yellow-dark"
+            />
+            <span
+              class="heading-title"
+            >
+              In Progress
+            </span>
+            <span
+              class="heading-data"
+            >
+              (0) 
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-col-content"
+      />
+    </div>
+    <div
+      class="box-col closed"
+    >
+      <div
+        class="box-col-header"
+      >
+        <div
+          class="heading"
+        >
+          <div
+            class="heading-info"
+          >
+            <div
+              class="badge-round green"
+              style="background-color: green;"
+            />
+            <span
+              class="heading-title"
+            >
+              Close
+            </span>
+            <span
+              class="heading-data"
+            >
+              (0) 
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-col-content"
+      />
+    </div>
+    <div
+      class="box-col deleted"
+    >
+      <div
+        class="box-col-header"
+      >
+        <div
+          class="heading"
+        >
+          <div
+            class="heading-info"
+          >
+            <div
+              class="badge-round red-light"
+            />
+            <span
+              class="heading-title"
+            >
+              Deleted
+            </span>
+            <span
+              class="heading-data"
+            >
+              (0) 
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-col-content"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

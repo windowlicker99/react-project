@@ -1,0 +1,51 @@
+.result-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.result-message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.result-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.result-img {
+    width: 160px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top center;
+
+    .successful & {
+        @extend .icon-successful;
+    }
+
+    .delete & {
+        @extend .icon-error;
+    }
+}
+
+
+
+
+.result-title {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.result-paragraph {
+    font-size: 16px;
+    font-weight: 600;
+    color: $grey;
+    text-align: center;
+}

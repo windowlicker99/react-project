@@ -1,0 +1,59 @@
+.page-controls {
+  padding-bottom: 0;
+}
+
+.page-controls-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+  &.tabs-bottom {
+    height: 60px;
+    align-items: flex-end;
+    margin-bottom: 0;
+  }
+
+  &.flex-end {
+    align-items: flex-end;
+  }
+}
+
+.page-controls-item {
+  display: flex;
+  align-items: flex-end;
+}
+
+.page-controls-data {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  font-size: 14px;
+  font-weight: 500;
+  color: $grey;
+  white-space: nowrap;
+
+  .chart {
+    width: 70px;
+  }
+
+  &:not(:last-child) {
+    padding: 0 30px;
+
+    border-right: 1px solid $grey-secondary;
+  }
+}
+
+.page-controls-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.page-controls-name {
+  color: $black;
+  margin-bottom: 8px;
+}
+
+.page-controls-architecture {
+  display: flex;
+}

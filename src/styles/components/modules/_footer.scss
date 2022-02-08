@@ -1,0 +1,16 @@
+.footer {
+  flex: 0 0 auto;
+}
+
+.footer-inner {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-text {
+  font-size: 14px;
+  color: $grey;
+  font-weight: 500;
+}

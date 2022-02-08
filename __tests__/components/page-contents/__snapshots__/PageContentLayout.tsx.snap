@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageContentLayout tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="header"
+  >
+    <div
+      class="container"
+    >
+      <nav
+        class="header-nav"
+      >
+        <div
+          class="header-inner"
+        >
+          <div
+            class="header-toggler"
+          >
+            <span
+              class="icon-menu"
+            />
+          </div>
+          <div
+            class="header-title"
+          >
+            test
+          </div>
+        </div>
+        <div
+          class="header-controls"
+        >
+          <div
+            class="mr-15"
+          >
+            <div
+              class="form-group"
+            >
+              <label
+                class="form-label search-label"
+                for="exampleFormControlInput1"
+              />
+              <div
+                class="search-group"
+              >
+                <div
+                  class="search-icon"
+                >
+                  <span
+                    class="icon-loupe"
+                  />
+                </div>
+                <input
+                  class="form-control search-input"
+                  id="exampleFormControlInput1"
+                  placeholder="Search"
+                  type="email"
+                  value=""
+                />
+                <button
+                  class="search-btn"
+                  type="button"
+                >
+                  <span
+                    class="icon-cross"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="header-dropdown"
+            role="presentation"
+          >
+            <div
+              class="avatar-card"
+            >
+              <div
+                class="avatar"
+              >
+                <img
+                  alt="avatar"
+                  class="avatar-img"
+                  src=""
+                />
+              </div>
+              <span
+                class="avatar-name"
+              >
+                John Stone
+              </span>
+            </div>
+            <ul
+              class="header-dropdown-menu inactive"
+            >
+              <li
+                class="header-dropdown-item"
+                role="presentation"
+              >
+                <span
+                  class="icon-logout mr-10"
+                />
+                Log out
+              </li>
+            </ul>
+            <span
+              class="icon-arrow-border-down"
+            />
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <div
+    class="container"
+  >
+    <h1>
+      text
+    </h1>
+  </div>
+</DocumentFragment>
+`;

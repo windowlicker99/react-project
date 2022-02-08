@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TicketsPreview tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="tickets-preview"
+  >
+    <div
+      class="tickets-preview-header"
+    >
+      <span
+        class="tickets-preview-title"
+      >
+        Tickets
+      </span>
+      <button
+        class="tickets-preview-details"
+        type="button"
+      >
+        View Details
+      </button>
+    </div>
+    <div
+      class="tickets-preview-body"
+    >
+      <div
+        class="tickets-preview-info"
+      >
+        0
+        <span
+          class="tickets-preview-data"
+        >
+          Open
+        </span>
+      </div>
+      <div
+        class="tickets-preview-info"
+      >
+        0
+        <span
+          class="tickets-preview-data"
+        >
+          In Progress
+        </span>
+      </div>
+      <div
+        class="tickets-preview-info"
+      >
+        0
+        <span
+          class="tickets-preview-data"
+        >
+          Closed
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

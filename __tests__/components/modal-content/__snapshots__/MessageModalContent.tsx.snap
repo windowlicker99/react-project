@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageModalContent tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="modal-info center"
+  >
+    <div
+      class="modal-img icon-mark-read"
+    />
+    <span
+      class="modal-title"
+    >
+      Mark All as Read
+    </span>
+    <span
+      class="modal-subtitle"
+    >
+      Do you really want to mark all notifications as read?
+    </span>
+  </div>
+</DocumentFragment>
+`;

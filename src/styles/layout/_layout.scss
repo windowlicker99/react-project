@@ -1,0 +1,83 @@
+.page-container {
+  height: 100vh;
+  display: flex;
+}
+
+.main {
+  display: flex;
+  flex: 1 1 auto;
+  min-width: 0%;
+  position: relative;
+  flex-direction: column;
+  background-color: $blue-light;
+  overflow: auto;
+}
+
+.container {
+  flex: 1 1 auto;
+  padding-right: $indent-standart;
+  padding-left: $indent-standart;
+  padding-top: $indent-standart;
+  padding-bottom: $indent-standart;
+
+  min-height: calc(100vh - 168px);
+
+  .header &,
+  .footer & {
+    display: block;
+    min-height: auto;
+  }
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.mr-7 {
+  margin-right: 10px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.ml-15 {
+  margin-left: 15px;
+}
+
+.mr-15 {
+  margin-right: 15px;
+}
+
+.mr-40 {
+  margin-right: 40px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-43 {
+  margin-top: 43px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-grey {
+  color: $grey;
+}
+.text-red {
+  color: $red;
+}

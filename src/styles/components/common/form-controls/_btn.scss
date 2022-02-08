@@ -1,0 +1,261 @@
+%btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 6px;
+  transition: $transition;
+  cursor: pointer;
+
+  &.full {
+    width: 100%;
+  }
+
+  .btn-details &,
+  .table-dropdown-heading & {
+    padding: 8px;
+  }
+}
+
+.btn-group {
+  display: flex;
+
+  &.flex-end {
+    justify-content: end;
+  }
+}
+
+.btn-group-stretch {
+  @extend .btn-group;
+  width: 100%;
+  & > * {
+    flex: 1 1;
+  }
+}
+
+.btn-text {
+  &:not(:empty) {
+    margin-left: 3px;
+  }
+}
+
+.btn-box {
+  display: flex;
+  background-color: $white;
+  border-radius: 8px;
+
+  &:not(:last-child) {
+    margin-right: 20px;
+  }
+}
+
+.btn-box-separator {
+  width: 1px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  background-color: $grey-secondary;
+}
+
+.btn-control {
+  @extend %btn;
+  border: 0;
+  background-color: $white;
+
+  &.active {
+    background-color: $sky-blue;
+  }
+}
+
+.btn-stretch {
+  min-width: 160px;
+}
+
+.btn-lg-info {
+  @extend %btn;
+  background-color: $blue-light;
+  color: $grey;
+  border: 1px solid $blue-light;
+}
+
+.btn-lg-primary {
+  @extend %btn;
+  background-color: $sky-blue;
+  color: $white;
+  border: solid 1px $sky-blue;
+
+  &:hover:not(.disabled):not(:disabled) {
+    background-color: $sky-blue-secondary;
+    border-color: $sky-blue-secondary;
+  }
+
+  &.active,
+  &:active:not(.disabled):not(:disabled) {
+    background-color: $blue;
+    border-color: $blue;
+  }
+
+  &.disabled, &:disabled {
+    background-color: rgba($grey, 0.3);
+    border: none;
+    cursor: default;
+  }
+}
+
+.btn-lg-secondary {
+  @extend %btn;
+  background: rgba($sky-blue, 0.15);
+  border: 1px solid rgba($sky-blue, 0);
+  color: $sky-blue;
+
+  &:hover:not(.disabled):not(:disabled) {
+    border: 1px solid $blue;
+  }
+
+  &:active:not(.disabled):not(:disabled) {
+    background-color: $sky-blue;
+    border: 1px solid $sky-blue;
+  }
+
+  &.disabled {
+    background-color: rgba($grey-light, 0.2);
+    border: none;
+    cursor: default;
+    color: $grey;
+
+    & .btn-text {
+      opacity: 0.5;
+    }
+  }
+}
+
+.btn-lg-outline {
+  @extend %btn;
+  background-color: transparent;
+  border: solid 1px $sky-blue;
+  color: $sky-blue;
+
+  &:hover:not(.disabled):not(:disabled) {
+    background-color: $sky-blue;
+    border-color: $sky-blue;
+    color: $white;
+  }
+
+  &.active,
+  &:active:not(.disabled):not(:disabled) {
+    background-color: $blue;
+    border-color: $blue;
+  }
+
+  &.disabled {
+    background-color: $white;
+    border-color: rgba($grey-light, 0.2);
+    cursor: default;
+    color: $grey;
+
+    & .btn-text {
+      opacity: 0.5;
+    }
+  }
+}
+
+// btn-xs
+
+.btn-xs-primary {
+  @extend %btn;
+  background-color: rgba($sky-blue, 0.15);
+  color: $white;
+  border: solid 1px rgba($sky-blue, 0);
+
+  &:hover:not(.disabled):not(:disabled) {
+    border-color: $blue;
+  }
+
+  &.active,
+  &:active:not(.disabled):not(:disabled) {
+    background-color: $blue;
+  }
+
+  &.disabled {
+    background-color: rgba($grey-light, 0.2);
+    border-color: rgba($grey-light, 0.2);
+    cursor: default;
+  }
+}
+
+.btn-xs-secondary {
+  @extend %btn;
+  background-color: transparent;
+  border: solid 1px $grey-light;
+  color: $sky-blue;
+
+  &:hover:not(.disabled):not(:disabled) {
+    border-color: $sky-blue;
+  }
+
+  &:active:not(.disabled):not(:disabled) {
+    background-color: $blue;
+    border-color: $blue;
+  }
+
+  &.disabled {
+    background-color: $white;
+    border-color: rgba($grey-light, 0.2);
+    cursor: default;
+  }
+
+  .tooltip-custom & {
+    border: none;
+  }
+
+  .upload & {
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 9;
+
+    &:active:not(.disabled):not(:disabled) {
+      background-color: transparent;
+      border-color: transparent;
+    }
+  }
+}
+
+.btn-xs-danger {
+  @extend %btn;
+  background-color: $red-light-secondary;
+  border: solid 1px $red-light-secondary;
+
+  &.active,
+  &:hover:not(.disabled):not(:disabled) {
+    border-color: $red-light;
+  }
+
+  &:active:not(.disabled):not(:disabled) {
+    background-color: $red-light;
+    border-color: $red-light;
+  }
+
+  &.disabled {
+    background-color: rgba($grey-light, 0.2);
+    border-color: rgba($grey-light, 0.2);
+    cursor: default;
+  }
+}
+
+.btn-link {
+  @extend %btn;
+  color: $sky-blue;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+
+  &.disabled {
+    cursor: default;
+    color: $grey-light;
+  }
+}

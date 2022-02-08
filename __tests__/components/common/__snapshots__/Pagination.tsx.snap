@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <nav
+    aria-label="pagination"
+    class="pagination"
+  >
+    <ul
+      class="pagination-list"
+    >
+      <li
+        class="page-item disabled"
+        role="presentation"
+      />
+      <li
+        class="page-item"
+        role="presentation"
+      >
+        <span
+          class="page-link next"
+        >
+          <span
+            class="page-link next"
+          />
+        </span>
+      </li>
+    </ul>
+  </nav>
+</DocumentFragment>
+`;

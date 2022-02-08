@@ -1,0 +1,16 @@
+.circle-chart {
+  font-size: 11px;
+
+  &.disable {
+    opacity: 0.5;
+    font-size: 8px;
+  }
+
+  &.large {
+    font-size: 20px;
+
+    &.disable {
+      font-size: 14px;
+    }
+  }
+}

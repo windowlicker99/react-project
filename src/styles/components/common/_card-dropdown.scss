@@ -1,0 +1,88 @@
+.card-dropdown {
+    border: 1px solid $grey-secondary;
+    border-radius: 15px;
+    padding: 30px;
+
+    &.select {
+        border-color: $sky-blue;
+    }
+
+    &:not(:last-child) {
+        margin-bottom: 15px;
+    }
+}
+
+.card-dropdown-content {
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: $transition;
+
+    .open & {
+        height: auto;
+        margin-top: 20px;
+        border-top: 1px solid $grey-secondary;
+        padding-top: 20px;
+        opacity: 1;
+        overflow: initial;
+    }
+}
+
+.card-dropdown-heading {
+    display: flex;
+    align-items: flex-start;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.card-dropdown-heading-inner {
+    display: flex;
+    align-items: flex-start;
+    flex: 1 1;
+    margin-right: 10px;
+}
+
+.card-dropdown-header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.card-dropdown-title {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.card-dropdown-title {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.card-dropdown-subtitle {
+    color: $grey;
+}
+
+.card-dropdown-item {
+    padding-bottom: 20px;
+
+    &:not(:last-child) {
+        margin-bottom: 20px;
+        border-bottom: 1px solid $grey-secondary;
+    }
+}
+
+.card-dropdown-box {
+    @extend .card-dropdown;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.card-dropdown-comment {
+    @extend .card-dropdown;
+    padding: 20px;
+    margin-top: 20px;
+}

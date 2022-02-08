@@ -1,0 +1,33 @@
+.search-group {
+    display: flex;
+    position: relative;
+    z-index: 0;
+}
+
+.search-input {
+    width: 100%;
+    padding: 12px 32px 12px 36px;
+    background-color: $white;
+}
+
+.search-icon {
+    position: absolute;
+    top: 50%;
+    left: 14px;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+.search-btn {
+    position: absolute;
+    right: 0;
+    width: 36px;
+    height: 100%;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.search-label {
+    color: $grey;
+}

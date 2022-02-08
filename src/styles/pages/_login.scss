@@ -1,0 +1,30 @@
+.login-image {
+  flex: 1 1;
+  background-position: center;
+  background-size: cover;
+  padding: 60px;
+}
+
+.login-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1;
+  max-width: 790px;
+  background-color: $white;
+}
+
+.login-form {
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  flex: 0%;
+  max-width: 400px;
+  margin-bottom: 30px;
+}
+
+.login-title {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}

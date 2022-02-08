@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Property tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="property"
+  >
+    <span
+      class="property-name"
+    />
+    <span
+      class="property-value"
+    />
+  </div>
+</DocumentFragment>
+`;

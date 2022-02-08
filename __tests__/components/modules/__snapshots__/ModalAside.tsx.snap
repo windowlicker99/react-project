@@ -1,0 +1,561 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ModalAside tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="modal modal-aside show"
+  >
+    <div
+      class="modal-content"
+    >
+      <div
+        class="modal-header"
+      >
+        <div
+          class="modal-heading"
+        >
+          <div
+            class="modal-header-content"
+          >
+            <span
+              class="modal-title"
+            >
+              Test
+            </span>
+            <span
+              class="modal-subtitle"
+            />
+          </div>
+          <button
+            class="btn btn-xs-secondary"
+            type="button"
+          >
+            <span
+              class="icon-close"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="modal-body"
+      >
+        <div
+          class="domains-aside-item"
+        >
+          <div
+            class="modal-box"
+          >
+            <div
+              class="form-group"
+            >
+              <label
+                class="form-label"
+                for="name"
+              >
+                Domain Name
+              </label>
+              <input
+                class="form-control"
+                maxlength="25"
+                name="name"
+                placeholder="Enter Domain Name"
+                value=""
+              />
+            </div>
+            <div
+              class="form-group"
+            >
+              <label
+                class="form-label"
+                for="domainUsage"
+              >
+                Domain Usage
+              </label>
+              <input
+                class="form-control"
+                maxlength="25"
+                name="domainUsage"
+                placeholder="Enter Domain Usage"
+                value=""
+              />
+            </div>
+            <div
+              class="form-input-switch"
+            >
+              <div
+                class="form-group"
+              >
+                <label
+                  class="form-label"
+                  for="onlineConnectivity"
+                >
+                  Online Connectivity
+                </label>
+                <input
+                  class="form-control"
+                  disabled=""
+                  name="onlineConnectivity"
+                  placeholder="Online"
+                />
+              </div>
+              <div
+                class="switch"
+              >
+                <input
+                  class="switch-input"
+                  id="connectivity"
+                  name="connectivity"
+                  type="checkbox"
+                />
+                <label
+                  class="switch-label"
+                  for="connectivity"
+                >
+                  <span
+                    class="switch-text"
+                  />
+                  <span
+                    class="switch-trigger"
+                  />
+                </label>
+              </div>
+            </div>
+            <div
+              class="form-group"
+            >
+              <label
+                class="form-label"
+                for="exampleFormControlInput1"
+              >
+                Communication
+              </label>
+              <div
+                class="select-component css-2b097c-container"
+              >
+                <span
+                  aria-atomic="false"
+                  aria-live="polite"
+                  aria-relevant="additions text"
+                  class="css-1f43avz-a11yText-A11yText"
+                />
+                <div
+                  class="react-select__control css-1pgkwyd-control"
+                >
+                  <div
+                    class="react-select__value-container react-select__value-container--is-multi css-g1d714-ValueContainer"
+                  >
+                    <div
+                      class="react-select__placeholder css-oco7ot-placeholder"
+                    >
+                      Communication
+                    </div>
+                    <div
+                      class="css-b8ldur-Input"
+                    >
+                      <div
+                        class="react-select__input"
+                        style="display: inline-block;"
+                      >
+                        <input
+                          aria-autocomplete="list"
+                          autocapitalize="none"
+                          autocomplete="off"
+                          autocorrect="off"
+                          id="react-select-3-input"
+                          spellcheck="false"
+                          style="box-sizing: content-box; width: 2px; border: 0px; opacity: 1; outline: 0; padding: 0px;"
+                          tabindex="0"
+                          type="text"
+                          value=""
+                        />
+                        <div
+                          style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-family: -webkit-small-control; letter-spacing: normal; text-transform: none;"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="react-select__indicators css-1hb7zxy-IndicatorsContainer"
+                  >
+                    <div
+                      aria-hidden="true"
+                      class="react-select__indicator react-select__dropdown-indicator css-tlfecz-indicatorContainer"
+                    >
+                      <div
+                        class="form-arrow icon-arrow-border-down"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <input
+                    name="communication"
+                    type="hidden"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="badge-round-group"
+          >
+            <span
+              class="badge-round-title"
+            >
+              Domain Color
+            </span>
+            <div
+              class="badge-round-content"
+            >
+              <div
+                class="badge-round #ffd700"
+                style="background-color: rgb(255, 215, 0);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#ffd700"
+                  name="color"
+                  type="radio"
+                  value="#ffd700"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#ffd700"
+                />
+              </div>
+              <div
+                class="badge-round #ffca6a"
+                style="background-color: rgb(255, 202, 106);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#ffca6a"
+                  name="color"
+                  type="radio"
+                  value="#ffca6a"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#ffca6a"
+                />
+              </div>
+              <div
+                class="badge-round #ffa027"
+                style="background-color: rgb(255, 160, 39);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#ffa027"
+                  name="color"
+                  type="radio"
+                  value="#ffa027"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#ffa027"
+                />
+              </div>
+              <div
+                class="badge-round #fb5e06"
+                style="background-color: rgb(251, 94, 6);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#fb5e06"
+                  name="color"
+                  type="radio"
+                  value="#fb5e06"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#fb5e06"
+                />
+              </div>
+              <div
+                class="badge-round #f26563"
+                style="background-color: rgb(242, 101, 99);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#f26563"
+                  name="color"
+                  type="radio"
+                  value="#f26563"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#f26563"
+                />
+              </div>
+              <div
+                class="badge-round #fc2033"
+                style="background-color: rgb(252, 32, 51);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#fc2033"
+                  name="color"
+                  type="radio"
+                  value="#fc2033"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#fc2033"
+                />
+              </div>
+              <div
+                class="badge-round #c50029"
+                style="background-color: rgb(197, 0, 41);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#c50029"
+                  name="color"
+                  type="radio"
+                  value="#c50029"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#c50029"
+                />
+              </div>
+              <div
+                class="badge-round #ff3a88"
+                style="background-color: rgb(255, 58, 136);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#ff3a88"
+                  name="color"
+                  type="radio"
+                  value="#ff3a88"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#ff3a88"
+                />
+              </div>
+              <div
+                class="badge-round #AD6EFF"
+                style="background-color: rgb(173, 110, 255);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#AD6EFF"
+                  name="color"
+                  type="radio"
+                  value="#AD6EFF"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#AD6EFF"
+                />
+              </div>
+              <div
+                class="badge-round #e47bf1"
+                style="background-color: rgb(228, 123, 241);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#e47bf1"
+                  name="color"
+                  type="radio"
+                  value="#e47bf1"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#e47bf1"
+                />
+              </div>
+              <div
+                class="badge-round #8555c9"
+                style="background-color: rgb(133, 85, 201);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#8555c9"
+                  name="color"
+                  type="radio"
+                  value="#8555c9"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#8555c9"
+                />
+              </div>
+              <div
+                class="badge-round #7674fd"
+                style="background-color: rgb(118, 116, 253);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#7674fd"
+                  name="color"
+                  type="radio"
+                  value="#7674fd"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#7674fd"
+                />
+              </div>
+              <div
+                class="badge-round #4f98ff"
+                style="background-color: rgb(79, 152, 255);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#4f98ff"
+                  name="color"
+                  type="radio"
+                  value="#4f98ff"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#4f98ff"
+                />
+              </div>
+              <div
+                class="badge-round #00c3ff"
+                style="background-color: rgb(0, 195, 255);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#00c3ff"
+                  name="color"
+                  type="radio"
+                  value="#00c3ff"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#00c3ff"
+                />
+              </div>
+              <div
+                class="badge-round #bec8e7"
+                style="background-color: rgb(190, 200, 231);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#bec8e7"
+                  name="color"
+                  type="radio"
+                  value="#bec8e7"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#bec8e7"
+                />
+              </div>
+              <div
+                class="badge-round #15eed4"
+                style="background-color: rgb(21, 238, 212);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#15eed4"
+                  name="color"
+                  type="radio"
+                  value="#15eed4"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#15eed4"
+                />
+              </div>
+              <div
+                class="badge-round #10c9a1"
+                style="background-color: rgb(16, 201, 161);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#10c9a1"
+                  name="color"
+                  type="radio"
+                  value="#10c9a1"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#10c9a1"
+                />
+              </div>
+              <div
+                class="badge-round #00ab9c"
+                style="background-color: rgb(0, 171, 156);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#00ab9c"
+                  name="color"
+                  type="radio"
+                  value="#00ab9c"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#00ab9c"
+                />
+              </div>
+              <div
+                class="badge-round #cbdb15"
+                style="background-color: rgb(203, 219, 21);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#cbdb15"
+                  name="color"
+                  type="radio"
+                  value="#cbdb15"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#cbdb15"
+                />
+              </div>
+              <div
+                class="badge-round #49c768"
+                style="background-color: rgb(73, 199, 104);"
+              >
+                <input
+                  class="badge-round-input"
+                  id="color-#49c768"
+                  name="color"
+                  type="radio"
+                  value="#49c768"
+                />
+                <label
+                  class="badge-round-label"
+                  for="color-#49c768"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="modal-footer"
+      >
+        <div
+          class="modal-footer-control"
+        >
+          <div
+            class="modal-footer-item"
+          />
+          <button
+            class="btn btn-lg-primary btn-stretch"
+            type="button"
+          >
+            <span
+              class="btn-icon "
+            />
+            <span
+              class="btn-text"
+            >
+              Test
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,33 @@
+.page-content {
+    display: flex;
+    flex: 1 1;
+    gap: 20px;
+    overflow: auto;
+}
+  
+.page-thumb {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1;
+}
+
+.page-holder {
+    display: flex;
+    overflow: auto;
+    height: 100%;
+}
+
+.architecture-scheme {
+    flex: 1 1;
+    // overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+.architecture-controls {
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-controls-main {
+    display: flex;
+}

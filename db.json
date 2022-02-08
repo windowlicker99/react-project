@@ -1,0 +1,2482 @@
+{
+  "users": [
+    {
+      "id": "jklj8ej",
+      "name": "admin",
+      "password": "adminn",
+      "avatar": "https://www.pngkey.com/png/detail/114-1149878_setting-user-avatar-in-specific-size-without-breaking.png"
+    },
+    {
+      "id": "1",
+      "name": "John Stone",
+      "password": "admin",
+      "avatar": "https://cdn5.vectorstock.com/i/1000x1000/51/99/icon-of-user-avatar-for-web-site-or-mobile-app-vector-3125199.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Mia Wong",
+      "password": "admin",
+      "avatar": "https://png.pngtree.com/element_our/20190604/ourlarge/pngtree-user-avatar-boy-image_1482937.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Trevor Virtue",
+      "password": "admin",
+      "avatar": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Verona Blair",
+      "password": "admin",
+      "avatar": "https://png.pngtree.com/png-vector/20190704/ourlarge/pngtree-businessman-user-avatar-free-vector-png-image_1538405.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Jane Meldrum",
+      "password": "admin",
+      "avatar": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "6",
+      "name": "Maureen M. Smith",
+      "password": "admin",
+      "avatar": "https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png"
+    },
+    {
+      "id": "7",
+      "name": "Peter Stanbridge",
+      "password": "admin",
+      "avatar": "data:image/png;base64,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"
+    },
+    {
+      "id": "8",
+      "name": "Andrew Kazantzis",
+      "password": "admin",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGQ8dQ-LMiMmTEyBijR0FzpQHC7tH6qTE2g&usqp=CAU"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "0",
+      "name": "New high score CVE",
+      "planned": "10/11/2021",
+      "started": "10/11/2021",
+      "url": "https://www.caralert.com/match-vulnerabilities/CVE-2018-1000001",
+      "vehicleIds": [
+        "0"
+      ]
+    }
+  ],
+  "riskLevelProgress": [
+    {
+      "id": "0",
+      "progress": [
+        {
+          "id": "0",
+          "riskLevel": "veryHigh",
+          "date": "12/13/2021"
+        },
+        {
+          "id": "1",
+          "riskLevel": "veryHigh",
+          "date": "02/02/2022"
+        },
+        {
+          "id": "2",
+          "riskLevel": "veryHigh",
+          "date": "04/02/2022"
+        },
+        {
+          "id": "3",
+          "riskLevel": "veryHigh",
+          "date": "05/02/2022"
+        }
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "0",
+      "brandId": "0",
+      "photo": "http://res.cloudinary.com/dymcmwyel/image/upload/v1635526478/alh6j7pfyz6vl2petqow.png",
+      "riskLevel": "Very High",
+      "complianceLevel": 25,
+      "raProgress": 30,
+      "name": "VolksWagen",
+      "model": "Golf 8",
+      "platform": "MQB48W",
+      "phase": "Testing",
+      "riskLevelProgressId": "0",
+      "authorId": "0",
+      "lastUpdate": "10/11/2021 00:01"
+    },
+    {
+      "brandId": "1",
+      "phase": "Testing",
+      "model": "ьь",
+      "platform": "ььь",
+      "haveGateway": true,
+      "riskLevel": "noData",
+      "complianceLevel": null,
+      "raProgress": null,
+      "id": "1642436715929",
+      "lastUpdate": "2022-01-17T16:25:15.929Z",
+      "development": "04/01/2022",
+      "testing": "06/01/2022",
+      "compliancy": "13/01/2022",
+      "production": "13/01/2022"
+    }
+  ],
+  "gateways": [
+    {
+      "id": "0",
+      "name": "ICAS1",
+      "safetyCriticalityLevel": "ASIL A",
+      "operationSystem": "AUTOSAR",
+      "firmwareVersion": "4.4.0",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "name": "ььь",
+      "operationSystem": "",
+      "firmwareVersion": "",
+      "safetyCriticalityLevel": "ASIL A",
+      "onlineConnectivity": "Online",
+      "vehicleId": "1642436715929",
+      "id": "1642436715932"
+    }
+  ],
+  "domains": [
+    {
+      "id": "0",
+      "name": "O-CAN",
+      "domainUsage": "Online",
+      "communication": [
+        "CAN",
+        "Ethernet"
+      ],
+      "onlineConnectivity": "Online",
+      "vehicleId": "0",
+      "color": "#10c9a1",
+      "riskLevel": "veryHigh",
+      "background": "#ddfff8",
+      "lastUpdate": "10/12/2021 13:01",
+      "created": "10/12/2021 13:01"
+    },
+    {
+      "id": "1",
+      "name": "I-CAN",
+      "domainUsage": "Infotainment",
+      "communication": [
+        "CAN",
+        "Ethernet"
+      ],
+      "onlineConnectivity": "Offline",
+      "riskLevel": "veryHigh",
+      "vehicleId": "0",
+      "color": "#ffca6a",
+      "background": "#fff5e1",
+      "lastUpdate": "10/11/2021 14:01",
+      "created": "10/11/2021 13:01"
+    },
+    {
+      "id": "2",
+      "name": "PWT-CAN",
+      "domainUsage": "Powertrain",
+      "communication": [
+        "CAN",
+        "Ethernet"
+      ],
+      "onlineConnectivity": "Offline",
+      "riskLevel": "veryHigh",
+      "vehicleId": "0",
+      "color": "#AD6EFF",
+      "background": "#f1e7ff",
+      "lastUpdate": "12/13/2021 03:02",
+      "created": "10/12/2021 13:01"
+    },
+    {
+      "id": "3",
+      "name": "BH-CAN",
+      "domainUsage": "Body",
+      "communication": [
+        "CAN"
+      ],
+      "onlineConnectivity": "Offline",
+      "riskLevel": "Very High",
+      "lastUpdate": "10/12/2021 13:05",
+      "created": "10/12/2021 13:0",
+      "vehicleId": "0",
+      "color": "#ff3a88",
+      "background": "#ffdbed"
+    },
+    {
+      "id": "1642436736794",
+      "lastUpdate": "01/17/2022",
+      "name": "ь",
+      "domainUsage": "ьь",
+      "onlineConnectivity": "Online",
+      "communication": [
+        "CAN"
+      ],
+      "color": "#ffd700",
+      "background": "#fff9db",
+      "authorId": "jklj8ej",
+      "vehicleId": "0"
+    },
+    {
+      "id": "1642437568172",
+      "lastUpdate": "01/17/2022",
+      "name": "денис",
+      "domainUsage": ".",
+      "onlineConnectivity": "Offline",
+      "communication": [
+        "CAN"
+      ],
+      "color": "#fc2033",
+      "background": "#ffd0d4",
+      "authorId": "jklj8ej",
+      "vehicleId": "0"
+    },
+    {
+      "id": "1642625566979",
+      "lastUpdate": "01/19/2022",
+      "name": "h",
+      "domainUsage": "hh",
+      "onlineConnectivity": "Offline",
+      "communication": [
+        "CAN"
+      ],
+      "color": "#ffd700",
+      "background": "#fff9db",
+      "authorId": "jklj8ej",
+      "vehicleId": "0"
+    }
+  ],
+  "ecus": [
+    {
+      "id": "0",
+      "name": "TCU",
+      "type": "Regular",
+      "domains": [
+        {
+          "id": "0",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 50,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "connectedECUs": [
+        {
+          "id": "13"
+        },
+        {
+          "id": "14"
+        }
+      ],
+      "relativeECUs": [
+        {
+          "id": "7",
+          "name": "Airbag",
+          "color": "#AD6EFF",
+          "domain": {
+            "id": "2"
+          }
+        }
+      ],
+      "vehicleId": "0"
+    },
+    {
+      "id": "1",
+      "name": "Infotainment",
+      "type": "Host",
+      "domains": [
+        {
+          "id": "1",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 25,
+      "riskLevel": "high",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0",
+      "connectedECUs": []
+    },
+    {
+      "id": "2",
+      "name": "Rear Seat Info",
+      "type": "Host ECU",
+      "domains": [
+        {
+          "id": "1",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 20,
+      "riskLevel": "veryLow",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0",
+      "connectedECUs": [],
+      "ticketId": 1635091626714
+    },
+    {
+      "id": "3",
+      "name": "HUD",
+      "type": "VM",
+      "domains": [
+        {
+          "id": "1",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 20,
+      "riskLevel": "medium",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0",
+      "ticketId": 1635151281431,
+      "connectedECUs": [
+        {
+          "id": "4"
+        },
+        {
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "PIP",
+      "type": "VM",
+      "supplierId": "0",
+      "complianceLevel": 10,
+      "riskLevel": "veryLow",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0",
+      "connectedECUs": []
+    },
+    {
+      "id": "5",
+      "name": "Surround View",
+      "type": "Regular",
+      "supplierId": "0",
+      "complianceLevel": 20,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0",
+      "connectedECUs": [],
+      "ticketId": 1635091626714
+    },
+    {
+      "id": "6",
+      "name": "ADC",
+      "type": "VM",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "1",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 35,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0",
+      "connectedECUs": [],
+      "ticketId": 1636641780295
+    },
+    {
+      "id": "7",
+      "name": "Airbag",
+      "type": "Regular",
+      "domains": [
+        {
+          "id": "2",
+          "communication": "Ethernet"
+        }
+      ],
+      "relativeECUs": [
+        {
+          "id": "0",
+          "name": "TCU",
+          "color": "#10c9a1",
+          "domain": {
+            "id": "0"
+          }
+        }
+      ],
+      "connectedECUs": [
+        {
+          "id": "20"
+        },
+        {
+          "id": "21"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 25,
+      "riskLevel": "medium",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Offline",
+      "vehicleId": "0",
+      "ticketId": 7
+    },
+    {
+      "id": "8",
+      "name": "BCM",
+      "type": "Host",
+      "domains": [
+        {
+          "id": "3",
+          "communication": "Ethernet"
+        }
+      ],
+      "connectedECUs": [
+        {
+          "id": "9"
+        },
+        {
+          "id": "10"
+        },
+        {
+          "id": "11"
+        },
+        {
+          "id": "12"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 25,
+      "riskLevel": "veryHigh",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Offline",
+      "vehicleId": "0"
+    },
+    {
+      "id": "9",
+      "name": "Steering Wheel",
+      "type": "VM",
+      "connectedVMs": [],
+      "supplierId": "0",
+      "complianceLevel": 30,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Offline",
+      "vehicleId": "0"
+    },
+    {
+      "id": "10",
+      "name": "Driver Seat",
+      "type": "Regular",
+      "connectedVMs": [],
+      "supplierId": "0",
+      "complianceLevel": 10,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Offline",
+      "vehicleId": "0"
+    },
+    {
+      "id": "11",
+      "name": "Passive Entry",
+      "type": "Regular",
+      "connectedVMs": [],
+      "supplierId": "0",
+      "complianceLevel": 27,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Offline",
+      "vehicleId": "0"
+    },
+    {
+      "id": "12",
+      "name": "Front Wiper",
+      "type": "Regular",
+      "connectedVMs": [],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Offline",
+      "vehicleId": "0"
+    },
+    {
+      "id": "13",
+      "name": "ECU 1",
+      "type": "Regular",
+      "connectedVMs": [],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "14",
+      "name": "ECU 2",
+      "type": "Regular",
+      "connectedVMs": [],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "15",
+      "name": "ECU 3",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "0",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "16",
+      "name": "ECU 4",
+      "type": "Regular",
+      "connectedVMs": [
+        {
+          "id": "17"
+        },
+        {
+          "id": "18"
+        },
+        {
+          "id": "19"
+        }
+      ],
+      "domains": [
+        {
+          "id": "0",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "17",
+      "name": "ECU 5",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "0",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "18",
+      "name": "ECU 6",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "0",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "19",
+      "name": "ECU 7",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "0",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "20",
+      "name": "ECU 8",
+      "type": "Regular",
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "21",
+      "name": "ECU 9",
+      "type": "Regular",
+      "connectedVMs": [],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "22",
+      "name": "ECU 10",
+      "type": "Regular",
+      "connectedVMs": [
+        {
+          "id": "23"
+        },
+        {
+          "id": "24"
+        }
+      ],
+      "domains": [
+        {
+          "id": "2",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "23",
+      "name": "ECU 11",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "2",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "24",
+      "name": "ECU 12",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "2",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "25",
+      "name": "ECU 13",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "3",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "26",
+      "name": "ECU 14",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "3",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "27",
+      "name": "ECU 15",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "4",
+          "communication": "Ethernet"
+        }
+      ],
+      "relativeECUs": [
+        {
+          "id": "32",
+          "name": "ECU 20",
+          "color": "#00c3ff",
+          "domain": {
+            "id": "5"
+          }
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "28",
+      "name": "ECU 16",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "4",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "29",
+      "name": "ECU 17",
+      "type": "Regular",
+      "connectedVMs": [
+        {
+          "id": "30"
+        },
+        {
+          "id": "31"
+        }
+      ],
+      "domains": [
+        {
+          "id": "4",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "30",
+      "name": "ECU 18",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "4",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "31",
+      "name": "ECU 19",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "4",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "32",
+      "name": "ECU 20",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "5",
+          "communication": "Ethernet"
+        }
+      ],
+      "relativeECUs": [
+        {
+          "id": "27",
+          "name": "ECU 15",
+          "color": "#cbdb15",
+          "domain": {
+            "id": "4"
+          }
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "33",
+      "name": "ECU 21",
+      "type": "Regular",
+      "connectedECUs": [
+        {
+          "id": "34"
+        },
+        {
+          "id": "35"
+        }
+      ],
+      "domains": [
+        {
+          "id": "5",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "34",
+      "name": "ECU 22",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "5",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "35",
+      "name": "ECU 23",
+      "type": "Regular",
+      "connectedVMs": [],
+      "domains": [
+        {
+          "id": "5",
+          "communication": "Ethernet"
+        }
+      ],
+      "supplierId": "0",
+      "complianceLevel": 15,
+      "riskLevel": "low",
+      "operationSystem": "Linux",
+      "firmwareVersion": "VWOS 4.1",
+      "onlineConnectivity": "Online",
+      "vehicleId": "0"
+    },
+    {
+      "id": "1639413168129",
+      "complianceLevel": 0,
+      "riskLevel": "noInfo",
+      "safetyCriticalityLevel": 0,
+      "name": "Dima",
+      "operationSystem": "lkj",
+      "onlineConnectivity": "Online",
+      "firmwareVersion": "gfdg",
+      "type": "Regular",
+      "isGateway": false,
+      "isSwitch": false,
+      "supplierId": "0",
+      "hostVMorDocker": null,
+      "runVMorDocker": null,
+      "hostECUId": null,
+      "domains": [
+        {
+          "id": "1639413145183",
+          "communication": "CAN"
+        }
+      ],
+      "haveDirectCommunication": true,
+      "directCommunication": [
+        "Bluetooth"
+      ],
+      "updateProcess": true,
+      "managingOrUsing": "managing",
+      "storeConfidentialData": true,
+      "useCryptographicTechnologies": false,
+      "indirectCommunicationChannel": false,
+      "connectedECUs": null,
+      "vehicleId": "1639413124419"
+    },
+    {
+      "id": "1639479151878",
+      "complianceLevel": 0,
+      "riskLevel": "noInfo",
+      "safetyCriticalityLevel": 0,
+      "name": "fghfgh",
+      "operationSystem": "gfhfgh",
+      "onlineConnectivity": "Online",
+      "firmwareVersion": "gfh",
+      "type": "Regular",
+      "isGateway": false,
+      "isSwitch": false,
+      "supplierId": "0",
+      "hostVMorDocker": null,
+      "runVMorDocker": null,
+      "hostECUId": null,
+      "domains": [
+        {
+          "id": "1639479131171",
+          "communication": "CAN"
+        }
+      ],
+      "haveDirectCommunication": true,
+      "directCommunication": [],
+      "updateProcess": true,
+      "managingOrUsing": "managing",
+      "storeConfidentialData": true,
+      "useCryptographicTechnologies": false,
+      "indirectCommunicationChannel": false,
+      "connectedECUs": null,
+      "vehicleId": "1639479120020"
+    },
+    {
+      "id": "1639570739037",
+      "complianceLevel": 0,
+      "riskLevel": "noInfo",
+      "safetyCriticalityLevel": 0,
+      "name": "rew",
+      "operationSystem": "wwwwwwwwer",
+      "onlineConnectivity": "Online",
+      "firmwareVersion": "rew",
+      "type": "Regular",
+      "isGateway": false,
+      "isSwitch": false,
+      "supplierId": "0",
+      "hostVMorDocker": null,
+      "runVMorDocker": null,
+      "hostECUId": null,
+      "domains": [
+        {
+          "id": "1639570723145",
+          "communication": "CAN"
+        }
+      ],
+      "haveDirectCommunication": true,
+      "directCommunication": [],
+      "updateProcess": true,
+      "managingOrUsing": "managing",
+      "storeConfidentialData": false,
+      "useCryptographicTechnologies": false,
+      "indirectCommunicationChannel": false,
+      "connectedECUs": null,
+      "vehicleId": "1639570695251"
+    },
+    {
+      "id": "1640782097081",
+      "complianceLevel": 25,
+      "riskLevel": "veryHigh",
+      "safetyCriticalityLevel": 0,
+      "name": "gjhj",
+      "operationSystem": "ghj",
+      "onlineConnectivity": "Online",
+      "firmwareVersion": "ghjghj",
+      "type": "Regular",
+      "isGateway": false,
+      "isSwitch": false,
+      "supplierId": "0",
+      "hostVMorDocker": null,
+      "runVMorDocker": null,
+      "hostECUId": null,
+      "domains": [
+        {
+          "id": "1640782070199",
+          "communication": "Ethernet"
+        }
+      ],
+      "haveDirectCommunication": true,
+      "directCommunication": [
+        "Bluetooth",
+        "GPS/GNSS"
+      ],
+      "updateProcess": true,
+      "managingOrUsing": "managing",
+      "storeConfidentialData": true,
+      "useCryptographicTechnologies": false,
+      "indirectCommunicationChannel": false,
+      "connectedECUs": null,
+      "vehicleId": "1640352212358"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "0",
+      "name": "CYMOTIVE"
+    }
+  ],
+  "functions": [
+    {
+      "id": "0",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "ecuId": "0",
+      "name": "Function 1",
+      "supplier": "Lorem Lorem",
+      "complianceLevel": 63,
+      "version": "1.8.0_261",
+      "cluster": "Lorem Lorem",
+      "connectivity": "Online"
+    },
+    {
+      "id": "1",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "ecuId": "1",
+      "name": "Function 2",
+      "supplier": "Lorem Lorem",
+      "complianceLevel": 47,
+      "version": "1.8.0_261",
+      "cluster": "Lorem Lorem",
+      "connectivity": "Offline"
+    },
+    {
+      "id": "2",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "ecuId": "2",
+      "name": "Function 3",
+      "supplier": "Lorem Lorem",
+      "complianceLevel": 93,
+      "version": "1.8.0_261",
+      "cluster": "Lorem Lorem",
+      "connectivity": "Online"
+    },
+    {
+      "id": "3",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "ecuId": "3",
+      "name": "Function 4",
+      "supplier": "Lorem Lorem",
+      "complianceLevel": 70,
+      "version": "1.8.0_261",
+      "cluster": "Lorem Lorem",
+      "connectivity": "Offline"
+    },
+    {
+      "id": "4",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "ecuId": "4",
+      "name": "Function 5",
+      "supplier": "Lorem Lorem",
+      "complianceLevel": 41,
+      "version": "1.8.0_261",
+      "cluster": "Lorem Lorem",
+      "connectivity": "Online"
+    },
+    {
+      "id": "5",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "ecuId": "5",
+      "name": "Function 6",
+      "supplier": "Lorem Lorem",
+      "complianceLevel": 30,
+      "version": "1.8.0_261",
+      "cluster": "Lorem Lorem",
+      "connectivity": "Online"
+    },
+    {
+      "id": "6",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "ecuId": "6",
+      "name": "Function 7",
+      "supplier": "Lorem Lorem",
+      "complianceLevel": 10,
+      "version": "1.8.0_261",
+      "cluster": "Lorem Lorem",
+      "connectivity": "Online"
+    },
+    {
+      "id": "7",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "ecuId": "7",
+      "name": "Function 8",
+      "supplier": "Lorem Lorem",
+      "complianceLevel": 53,
+      "version": "1.8.0_261",
+      "cluster": "Lorem Lorem",
+      "connectivity": "Online"
+    }
+  ],
+  "data": [
+    {
+      "id": "0",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "functionId": "1",
+      "name": "Data Name 1"
+    },
+    {
+      "id": "1",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "functionId": "2",
+      "name": "Data Name 2"
+    },
+    {
+      "id": "2",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "functionId": "3",
+      "name": "Data Name 3"
+    },
+    {
+      "id": "3",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "functionId": "4",
+      "name": "Data Name 4"
+    },
+    {
+      "id": "4",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "functionId": "5",
+      "name": "Data Name 5"
+    },
+    {
+      "id": "5",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "functionId": "6",
+      "name": "Data Name 6"
+    },
+    {
+      "id": "6",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "functionId": "0",
+      "name": "Data Name 7"
+    },
+    {
+      "id": "7",
+      "model": "2021 TSI",
+      "platform": "MQB48W",
+      "functionId": "0",
+      "name": "Data Name 8"
+    }
+  ],
+  "securityRequirements": [
+    {
+      "id": "0",
+      "reqId": "Requirement ID"
+    }
+  ],
+  "subRequirements": [
+    {
+      "id": "REQ.1",
+      "name": "Sub-Requirement 1",
+      "type": "Information",
+      "description": "There are three principal areas of an ECU, where the supplier must apply hardening to the hardware design and implementation:\n1. the processing unit chip(s): microprocessors and microcontrollers \n2. memory components that are external to the processing unit(s), such as RAM/ROM, Flash, NVRAM, etc.\n3. PCB with discrete elements, interconnections, vias and other components",
+      "conceptId": "0"
+    },
+    {
+      "id": "REQ.2",
+      "name": "Sub-Requirement 2",
+      "type": "Requirement",
+      "description": "The supplier must apply hardening to protect against methods that an attacker can use to reverse-engineer, analyze, manipulate or compromise the ECU hardware and the entire system security.",
+      "conceptId": "0"
+    },
+    {
+      "id": "REQ.3",
+      "name": "Sub-Requirement 3",
+      "type": "Information",
+      "description": "Each processing unit chip must be designed and placed such that its normal behavior (for example boot mode/source, execution/debug mode, reset vector, etc.) cannot be manipulated through physical access to the chip pins.",
+      "conceptId": "0"
+    },
+    {
+      "id": "REQ.4",
+      "name": "Sub-Requirement 4",
+      "type": "Requirement",
+      "description": "Each processing unit chip must be designed and placed such that no sensitive data can be extracted from the chip through physical access to the chip pins.",
+      "conceptId": "0"
+    },
+    {
+      "id": "REQ.5",
+      "name": "Sub-Requirement 5",
+      "type": "Information",
+      "description": "",
+      "conceptId": "1"
+    },
+    {
+      "id": "REQ.6",
+      "name": "Sub-Requirement 6",
+      "type": "Requirement",
+      "description": "",
+      "conceptId": "1"
+    },
+    {
+      "id": "REQ.7",
+      "name": "Sub-Requirement 7",
+      "type": "Information",
+      "description": "",
+      "conceptId": "2"
+    },
+    {
+      "id": "REQ.8",
+      "name": "Sub-Requirement 8",
+      "type": "Requirement",
+      "description": "",
+      "conceptId": "2"
+    }
+  ],
+  "penetrationTests": [
+    {
+      "id": "0",
+      "name": "Penetration Test 1"
+    },
+    {
+      "id": "1",
+      "name": "Penetration Test 2"
+    },
+    {
+      "id": "2",
+      "name": "Penetration Test 3"
+    },
+    {
+      "id": "3",
+      "name": "Penetration Test 4"
+    },
+    {
+      "id": "4",
+      "name": "Penetration Test 5"
+    },
+    {
+      "id": "5",
+      "name": "Penetration Test 6"
+    },
+    {
+      "id": "6",
+      "name": "Penetration Test 7"
+    },
+    {
+      "id": "7",
+      "name": "Penetration Test 8"
+    },
+    {
+      "id": "8",
+      "name": "Penetration Test 9"
+    },
+    {
+      "id": "9",
+      "name": "Penetration Test 10"
+    },
+    {
+      "id": "10",
+      "name": "Penetration Test 11"
+    },
+    {
+      "id": "11",
+      "name": "Penetration Test 12"
+    },
+    {
+      "id": "12",
+      "name": "Penetration Test 13"
+    },
+    {
+      "id": "13",
+      "name": "Penetration Test 14"
+    }
+  ],
+  "mainFindings": [
+    {
+      "id": "1",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "R.1",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "2",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "R.2",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "3",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "R.3",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "4",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "5",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "6",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "7",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "8",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "9",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "10",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "11",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "12",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "13",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "14",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "15",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "16",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "17",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "18",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    },
+    {
+      "id": "19",
+      "topic": "<Fill ID Column>",
+      "relatedRisk": "",
+      "threat": "Finding<Fill ID Column>",
+      "recommendations": "<Fill ID Column>",
+      "attackFeasibility": "<Fill ID Column>",
+      "damagePotential": "",
+      "comments": "",
+      "ticketNumber": ""
+    }
+  ],
+  "detailedFindings": [
+    {
+      "id": "1",
+      "topic": "JTAG",
+      "status": "Finished",
+      "type": "Finding",
+      "purpose": "Gain access to the system via physical ports",
+      "description": "",
+      "threat": "An attacker with physical access can read memory and debug the processors.",
+      "recommendations": "Close JTAG in production level software",
+      "expertise": "Proficient",
+      "access": "Moderate",
+      "time": "Hours",
+      "equipmentRepetition": "Specialized",
+      "targetRepetition": "Public",
+      "sumRepetition": "",
+      "attackDifficultyFinalScope": "Very High / Basic Attack",
+      "cve": "489"
+    },
+    {
+      "id": "2",
+      "topic": "UART",
+      "status": "Finished",
+      "type": "Finding",
+      "purpose": "Gain access to the system via physical ports",
+      "description": "",
+      "threat": "An attacker with physical access can receive a shell on all three VMs.",
+      "recommendations": "Close UART in production level software",
+      "expertise": "Layman",
+      "access": "Moderate",
+      "time": "Hours",
+      "equipmentRepetition": "Specialized",
+      "targetRepetition": "Public",
+      "sumRepetition": "",
+      "attackDifficultyFinalScope": "Very High / Basic Attack",
+      "cve": "489"
+    },
+    {
+      "id": "3",
+      "topic": "SSH",
+      "status": "Finished",
+      "type": "Finding",
+      "purpose": "Gain access to the system via Ethernet network",
+      "description": "",
+      "threat": "An attacker with access to the OBD-2 connector can obtain shell access on all three VMs.",
+      "recommendations": "Disable SSH in production level software",
+      "expertise": "Layman",
+      "access": "Easy",
+      "time": "Hours",
+      "equipmentRepetition": "Standard",
+      "targetRepetition": "Public",
+      "sumRepetition": "",
+      "attackDifficultyFinalScope": "Medium / Moderate Attack",
+      "cve": "749"
+    },
+    {
+      "id": "4",
+      "topic": "DoIP",
+      "status": "Finished",
+      "type": "Non finding",
+      "purpose": "Exploitation of DoIP communication on the Chorus processor",
+      "description": "",
+      "threat": "",
+      "recommendations": "",
+      "expertise": "",
+      "access": "",
+      "time": "",
+      "equipmentRepetition": "",
+      "targetRepetition": "",
+      "sumRepetition": "",
+      "attackDifficultyFinalScope": "",
+      "cve": ""
+    },
+    {
+      "id": "5",
+      "topic": "DoIP",
+      "status": "Finished",
+      "type": "Insight",
+      "purpose": "Exploitation of DoIP communication on the Chorus processor",
+      "description": "",
+      "threat": "",
+      "recommendations": "",
+      "expertise": "",
+      "access": "",
+      "time": "",
+      "equipmentRepetition": "",
+      "targetRepetition": "",
+      "sumRepetition": "",
+      "attackDifficultyFinalScope": "",
+      "cve": ""
+    },
+    {
+      "id": "6",
+      "topic": "DoIP",
+      "status": "Partially performed",
+      "type": "Insight",
+      "purpose": "Exploitation of DoIP communication on the VMs of the RCAR processor",
+      "description": "",
+      "threat": "",
+      "recommendations": "Continue research on this topic",
+      "expertise": "",
+      "access": "",
+      "time": "",
+      "equipmentRepetition": "",
+      "targetRepetition": "",
+      "sumRepetition": "",
+      "attackDifficultyFinalScope": "",
+      "cve": ""
+    },
+    {
+      "id": "6",
+      "topic": "ISO-TP/UDS",
+      "status": "Finished",
+      "type": "Finding",
+      "purpose": "Exploitation of ISOTP/UDS implementation",
+      "description": "",
+      "threat": "An attacker with ability to send UDS messages to the X processor can flash malicious firmware to the processor and gain persistent code execution.",
+      "recommendations": "During reception of FirstFrame, add a check of the payload length against the size of the whole ISO-TP stream.",
+      "expertise": "Layman",
+      "access": "Easy",
+      "time": "Hours",
+      "equipmentRepetition": "Standard",
+      "targetRepetition": "Public",
+      "sumRepetition": "",
+      "attackDifficultyFinalScope": "",
+      "cve": "682, 191, 787"
+    }
+  ],
+  "securityConcepts": [
+    {
+      "id": "0",
+      "name": "Security Concepts 1",
+      "descriptions": [
+        "System development must comply with \"xxx.x\": Secure ECU hardware platform\".",
+        "Hardware must be hardened and be resilient to physical attack methods such as reverse-engineering, system analysis, manipulating, and compromising hardware or memory buffers. "
+      ],
+      "requirementId": "0"
+    },
+    {
+      "id": "1",
+      "name": "Security Concepts 2",
+      "requirementId": "0"
+    },
+    {
+      "id": "2",
+      "name": "Security Concepts 3",
+      "requirementId": "0"
+    },
+    {
+      "id": "3",
+      "name": "Security Concepts 4"
+    }
+  ],
+  "securityConceptsControls": [
+    {
+      "conceptId": "0",
+      "controlId": "0",
+      "commentId": "0"
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "authorId": "1",
+      "text": "Hi"
+    }
+  ],
+  "controlThreats": [
+    {
+      "controlId": "1",
+      "threatId": "0"
+    },
+    {
+      "controlId": "0",
+      "threatId": "0"
+    },
+    {
+      "controlId": "2",
+      "threatId": "1"
+    },
+    {
+      "controlId": "3",
+      "threatId": "2"
+    },
+    {
+      "controlId": "4",
+      "threatId": "3"
+    },
+    {
+      "controlId": "5",
+      "threatId": "4"
+    },
+    {
+      "controlId": "6",
+      "threatId": "5"
+    }
+  ],
+  "tickets": [
+    {
+      "id": 0,
+      "name": "Complete Surround View Creation for VW Golf 8 MQB37W",
+      "type": "completment",
+      "userId": "0",
+      "acrchitectureId": 0,
+      "controlId": 0,
+      "vehicleId": "0",
+      "status": "open",
+      "planned": "2021-01-01",
+      "created": "2021-01-01",
+      "updated": "2021-12-20",
+      "started": "2021-01-01",
+      "closed": "2021-01-01"
+    },
+    {
+      "id": 1,
+      "name": "Risk Assessment of Brakes",
+      "type": "riskAssessment",
+      "userId": "1",
+      "acrchitectureId": 1,
+      "controlId": 1,
+      "vehicleId": "0",
+      "status": "open",
+      "planned": "2021-01-02",
+      "created": "2022-03-02",
+      "updated": "2021-01-04",
+      "started": "2022-02-03",
+      "closed": "2022-02-03"
+    },
+    {
+      "id": 2,
+      "name": "Implement «Apply device authentication techniques» for «Introduce malicious software or malicious software activity» for «Malware»",
+      "type": "implementation",
+      "userId": "2",
+      "acrchitectureId": 2,
+      "controlId": 2,
+      "vehicleId": "0",
+      "status": "open",
+      "planned": "2021-01-03",
+      "created": "2021-01-03",
+      "updated": "2021-01-04",
+      "started": "2021-01-03",
+      "closed": "2021-01-03"
+    },
+    {
+      "id": 3,
+      "name": "Risk Assessment of Rear Seat Info",
+      "userId": "3",
+      "type": "riskAssessment",
+      "acrchitectureId": 3,
+      "controlId": 3,
+      "vehicleId": "0",
+      "status": "progress",
+      "planned": "2021-01-03",
+      "created": "2022-03-03",
+      "updated": "2021-01-04",
+      "started": "2022-03-03",
+      "closed": "2022-03-03"
+    },
+    {
+      "id": 4,
+      "name": "Complete Engine Control Creation for VW Golf 8 MQB37W",
+      "type": "completment",
+      "userId": "4",
+      "acrchitectureId": 4,
+      "controlId": 4,
+      "vehicleId": "0",
+      "status": "progress",
+      "planned": "2021-01-04",
+      "created": "2021-01-04",
+      "started": "2021-01-04",
+      "updated": "2021-12-20",
+      "closed": "2021-01-04"
+    },
+    {
+      "id": 5,
+      "name": "Implement \"Rules for the acceptable use of vehicle systems and of assets associated with vehicle systems should be identified, documented and implemented\" for \"Innocent victim (e.g. owner, operator or maintenance engineer)\"",
+      "type": "implementation",
+      "elementType": "Lorem Lorem",
+      "elementName": "Lorem Lorem",
+      "userId": "4",
+      "acrchitectureId": 4,
+      "controlId": 4,
+      "vehicleId": "0",
+      "status": "open",
+      "planned": "2021-01-04",
+      "created": "2021-01-04",
+      "started": "2021-01-04",
+      "updated": "2021-01-04",
+      "closed": "2021-01-04"
+    },
+    {
+      "id": 6,
+      "name": "Implement \"Establish trust boundaries and access controls\" for \"Interference with short range wireless systems or sensors\" from \"Communication attacks\"",
+      "type": "implementation",
+      "elementType": "ECU",
+      "elementName": "Infotainment",
+      "userId": "4",
+      "acrchitectureId": 4,
+      "controlId": 4,
+      "vehicleId": "0",
+      "status": "closed",
+      "planned": "2021-01-04",
+      "created": "2021-01-04",
+      "started": "2021-01-04",
+      "updated": "2021-01-04",
+      "closed": "2021-01-04"
+    },
+    {
+      "id": 7,
+      "name": "Risk Assessment of Airbag",
+      "type": "riskAssessment",
+      "elementType": "Lorem Lorem",
+      "elementName": "Lorem Lorem",
+      "userId": "4",
+      "acrchitectureId": 4,
+      "controlId": 4,
+      "vehicleId": "0",
+      "status": "closed",
+      "planned": "2021-01-04",
+      "created": "2021-12-20",
+      "started": "2021-01-04",
+      "updated": "2021-01-04",
+      "closed": "2021-01-04"
+    },
+    {
+      "id": 8,
+      "name": "Complete Airbag Creation for VW Golf 8 MQB37W",
+      "type": "completment",
+      "elementType": "Lorem Lorem",
+      "elementName": "Lorem Lorem",
+      "userId": "4",
+      "acrchitectureId": 4,
+      "controlId": 4,
+      "vehicleId": "0",
+      "status": "deleted",
+      "planned": "2021-01-04",
+      "created": "2021-01-04",
+      "started": "2021-01-04",
+      "updated": "2021-01-04",
+      "closed": "2021-01-04"
+    },
+    {
+      "id": 8,
+      "name": "Implement \"Assets associated with vehicle systems should be identified and an inventory of these assets should be drawn up and maintained\" for \"Innocent victim (e.g. owner, operator or maintenance engineer) being tricked into taking an action to unintentionally load malware or enable an attack\" from \"Behavioral\"",
+      "type": "implementation",
+      "elementType": "ECU",
+      "elementName": "Brakes",
+      "userId": "4",
+      "acrchitectureId": 4,
+      "controlId": 4,
+      "vehicleId": "0",
+      "status": "deleted",
+      "planned": "2021-01-04",
+      "created": "2021-01-04",
+      "started": "2021-01-04",
+      "updated": "2021-01-04",
+      "closed": "2021-01-04"
+    }
+  ],
+  "threats": [
+    {
+      "id": "0",
+      "name": "Spoofing of messages by impersonation (e.g. 802.11p V2X during platooning, GNSS messages, etc.)",
+      "category": "Communication attacks",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "details": {
+        "group": "M10",
+        "calculatedAttackFeasibility": "Moderate",
+        "classificationGroup": "Technology Based Threat, Communication Related Threat",
+        "securityObjective": "Authenticity",
+        "technologies": "USB, External Storage, Wired Charging, Mobile Communication, WiFi, Bluetooth, NFC, Radio, Wireless Charging, GPS",
+        "dataECUThreat": "Data",
+        "elapsedTime": "Weeks",
+        "expertise": "Proficient",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      },
+      "securityConceptId": "0"
+    },
+    {
+      "id": "1",
+      "name": "Communications channels permit code injection, for example tampered software binary might be injected into the communication stream",
+      "category": "Communication Attacks ",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "details": {
+        "group": "M10",
+        "calculatedAttackFeasibility": "Moderate",
+        "classificationGroup": "Technology Based Threat, Communication Related Threat, Data/Code Related Threat",
+        "securityObjective": "Authenticity",
+        "technologies": "Signal Communication, Serviсe Communication, USB, External Storage, Wired Charging, Mobile Communication, WiFi, Bluetooth, NFC, Radio, Wireless Charging, GPS",
+        "dataECUThreat": "Data",
+        "elapsedTime": "Months",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      },
+      "securityConceptId": "0"
+    },
+    {
+      "id": "2",
+      "name": "Accepting information from an unreliable or untrusted source",
+      "category": "Communication attacks",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "details": {
+        "group": "M10",
+        "calculatedAttackFeasibility": "Moderate",
+        "classificationGroup": "Communication Related Threat, External Connectivity Related Threat",
+        "securityObjective": "Authenticity",
+        "technologies": "Signal Communication, Servie Communication, USB, External Storage, Wired Charging, Mobile Communication, WiFi, Bluetooth, NFC, Radio, Wireless Charging, GPS",
+        "dataECUThreat": "Data",
+        "elapsedTime": "Weeks",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      },
+      "securityConceptId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Man in the middle attack/ session hijacking",
+      "category": "Communication attacks",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "details": {
+        "group": "M10",
+        "calculatedAttackFeasibility": "Moderate",
+        "classificationGroup": "Technology Based Threat, Communication Related Threat, Data/Code Related Threat",
+        "securityObjective": "Authenticity",
+        "technologies": "Signal Communication, Servie Communication, USB, External Storage, Wired Charging, Mobile Communication, WiFi, Bluetooth, NFC, Radio, Wireless Charging, GPS",
+        "dataECUThreat": "Data",
+        "elapsedTime": "Weeks",
+        "expertise": "Proficient",
+        "knowledge": "Public",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      },
+      "securityConceptId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Communications channels permit overwrite of vehicle held data/code",
+      "category": "Communication attacks",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "details": {
+        "group": "M07",
+        "calculatedAttackFeasibility": "Moderate",
+        "classificationGroup": "Technology Based Threat, Communication Related Threat, Data/Code Related Threat",
+        "securityObjective": "Authenticity",
+        "technologies": "Signal Communication, Servie Communication, USB, External Storage, Wired Charging, Mobile Communication, WiFi, Bluetooth, NFC, Radio, Wireless Charging, GPS",
+        "dataECUThreat": "Data",
+        "elapsedTime": "Weeks",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      },
+      "securityConceptId": "2"
+    },
+    {
+      "id": "5",
+      "name": "Communications channels permit erasure of vehicle held data/code",
+      "category": "Communication attacks",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "details": {
+        "group": "M07",
+        "calculatedAttackFeasibility": "Moderate",
+        "classificationGroup": "Technology Based Threat, Communication Related Threat, Data/Code Related Threat",
+        "securityObjective": "Authenticity",
+        "technologies": "Signal Communication, Servie Communication, USB, External Storage, Wired Charging, Mobile Communication, WiFi, Bluetooth, NFC, Radio, Wireless Charging, GPS",
+        "dataECUThreat": "Data",
+        "elapsedTime": "Weeks",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      },
+      "securityConceptId": "3"
+    }
+  ],
+  "threatsOem": [],
+  "controlGroupsOem": [],
+  "controls": [
+    {
+      "id": "0",
+      "name": "Ensure that the in-vehicle application has clearly defined the user types and the rights of said users",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "group": "Access control",
+      "dueDate": "",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6",
+          "M7",
+          "M8",
+          "M9",
+          "M10",
+          "M18",
+          "M20"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Man in the middle attack/ session hijacking",
+        "affectLevel": "Element",
+        "elapsedTime": "Weeks",
+        "expertise": "Proficient",
+        "knowledge": "Public",
+        "equipment": "Standard",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    },
+    {
+      "id": "1",
+      "name": "Ensure that the authorization mechanism in place for vehicle access roles",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "group": "Access control",
+      "dueDate": "",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6",
+          "M7",
+          "M8",
+          "M9",
+          "M10",
+          "M18",
+          "M20"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Accepting information from an unreliable or untrusted source",
+        "affectLevel": "Element",
+        "elapsedTime": "Months",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Ensure that the Authorization mechanisms work properly, fail securely, and cannot be circumvented",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "dueDate": "",
+      "group": "Organizational security",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6",
+          "M7",
+          "M8",
+          "M9",
+          "M10",
+          "M18",
+          "M20"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Malicious diagnostic messages",
+        "affectLevel": "OEM",
+        "elapsedTime": "Months",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Policies to be reviewed at planned intervals or when significant changes occur to ensure their suitability, adequacy and effectiveness",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "dueDate": "",
+      "group": "Organizational security",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M4",
+          "M5",
+          "M6",
+          "M18",
+          "M19",
+          "M22"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Defined security procedures are not followed",
+        "affectLevel": "OEM",
+        "elapsedTime": "Weeks",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Cyber security roles and responsibilities to be defined and allocated",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "group": "Organizational security",
+      "dueDate": "",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M4",
+          "M5",
+          "M18",
+          "M19",
+          "M23"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Insufficient use of cryptographic algorithms to protect sensitive systems",
+        "affectLevel": "OEM",
+        "elapsedTime": "Weeks",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Segregation of duties to reduce opportunities for unauthorized/ unintentional modification/misuse of organization’s assets",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "group": "Organizational security",
+      "dueDate": "",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M4",
+          "M5",
+          "M18",
+          "M19",
+          "M23"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Combination of short encryption keys and long period of validity enables attacker to break encryption",
+        "affectLevel": "OEM",
+        "elapsedTime": "Weeks",
+        "expertise": "Expert",
+        "knowledge": "Restricted",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Appropriate procedures for handling, transferring and disposing of data assets",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "subCategory": "End of Life Considerations",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "group": "Human resource security and security awareness",
+      "dueDate": "",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M4",
+          "M5",
+          "M17",
+          "M18",
+          "M19"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Innocent victim (e.g. owner, operator or maintenance engineer) being tricked into talking an action to unintentionally load malware or enable an attack",
+        "affectLevel": "OEM",
+        "elapsedTime": "Weeks",
+        "expertise": "Proficient",
+        "knowledge": "Restricted",
+        "equipment": "Standart",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Define measures to ensure secure deletion of user data in case of a change of ownership",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "subCategory": "End of Life Considerations",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "group": "Human resource security and security awareness",
+      "dueDate": "",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M4",
+          "M5",
+          "M17",
+          "M18",
+          "M19"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Innocent victim (e.g. owner, operator or maintenance engineer) being tricked into talking an action to unintentionally load malware or enable an attack",
+        "affectLevel": "OEM",
+        "elapsedTime": "Weeks",
+        "expertise": "Expert",
+        "knowledge": "Public",
+        "equipment": "Specialized",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Specific cyber awareness and security training needs are identified for roles, especially those in the design and engineering functions, and then implemented",
+      "category": "Points related to 'Authorization'(UNECE)",
+      "checked": true,
+      "comment": {
+        "text": "",
+        "authorId": "",
+        "date": ""
+      },
+      "group": "Human resource security and security awareness",
+      "dueDate": "",
+      "details": {
+        "mitigationGroups": [
+          "M1",
+          "M4",
+          "M5",
+          "M17",
+          "M18",
+          "M19"
+        ],
+        "calculatedControlStrength": "Moderate",
+        "relatedThreats": "Innocent victim (e.g. owner, operator or maintenance engineer) being tricked into talking an action to unintentionally load malware or enable an attack",
+        "affectLevel": "OEM",
+        "elapsedTime": "Weeks",
+        "expertise": "Proficient",
+        "knowledge": "Restricted",
+        "equipment": "Standart",
+        "windowsOfOpportunity": "Unlimited"
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "Human resource security and security awareness",
+      "controlId": [
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "name": "Security policies",
+      "controlId": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "name": "Organization security",
+      "controlId": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "id": "0",
+      "fullName": "VolksWagen",
+      "name": "VW",
+      "logo": "https://vals.net.ua/wp-content/uploads/2017/04/Volkswagen-logo-2000-1920x1080.png"
+    },
+    {
+      "id": "1",
+      "fullName": "Skoda",
+      "name": "Skoda",
+      "logo": "https://logos-world.net/wp-content/uploads/2021/04/Skoda-Logo.png"
+    },
+    {
+      "id": "2",
+      "fullName": "Audi",
+      "name": "Audi",
+      "logo": "https://pngimg.com/uploads/car_logo/car_logo_PNG1640.png"
+    }
+  ]
+}

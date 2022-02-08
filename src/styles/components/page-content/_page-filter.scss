@@ -1,0 +1,50 @@
+.page-filter {
+  display: none;
+  flex-direction: column;
+  margin-bottom: 30px;
+  width: 100%;
+
+  &.show {
+    display: flex;
+  }
+
+.table-info & {
+    display: flex;
+    padding: 20px 0;
+    border-left: 1px solid $grey-light;
+    border-top: 1px solid $sky-blue;
+    border-bottom: 1px solid $sky-blue;
+    background-color: #fafcff;
+  }
+}
+
+.page-filter-inner {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: 0 10px;
+  margin-left: -30px;
+  margin-right: -30px;
+  margin-bottom: 30px;
+  padding: 0 30px;
+  border-bottom: 1px solid $grey-secondary;
+
+  .table-info & {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0 20px;
+  }
+}
+
+.page-filter-item {
+  margin-bottom: 20px;
+}
+
+.page-filter-btn {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+
+  .table-info & {
+    margin-right: 20px;
+  }
+}

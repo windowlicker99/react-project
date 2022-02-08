@@ -1,0 +1,55 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
+  line-height: 1.14;
+  color: $black;
+}
+
+ul {
+  list-style: none;
+}
+
+*,
+*:active,
+*:focus {
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.grid-box-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
+
+  &:not(:last-child) {
+    margin-bottom: 20px;
+  }
+}
+
+.grid-box-columns-btn {
+  @extend .grid-box-columns;
+  grid-template-columns: 2fr 2fr 0.4fr;
+  align-items: end;
+}

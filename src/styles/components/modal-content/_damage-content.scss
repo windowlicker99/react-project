@@ -1,0 +1,12 @@
+.damage-title {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.damage-item {
+    &:not(:last-child) {
+        margin-bottom: 20px;
+    }
+}

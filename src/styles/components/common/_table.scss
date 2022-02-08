@@ -1,0 +1,134 @@
+.table {
+  width: 100%;
+  font-size: 14px;
+  color: $black;
+  font-weight: 500;
+  border-collapse: collapse;
+}
+
+.table-col {
+  padding: 14px 30px;
+  border-bottom: 1px solid $grey-secondary;
+  background: $white;
+
+  &.controls:first-child { // markup check
+    width: 50px;
+  }
+
+  .table-body .table-row:last-child & {
+    border: none;
+  }
+
+  .table-header & {
+    border-bottom: 2px solid $grey-secondary;
+  }
+
+  &.sticky {
+    position: sticky;
+    right: 0;
+    z-index: 9;
+    box-shadow: -10px 0 10px -2px rgba(96, 109, 149, 0.25);
+  }
+
+  .active & {
+    background-color: rgba(79, 152, 255, 0.05);
+  }
+
+  .notification-message.active &:first-child,
+  .notification-assigned.active &:first-child {
+    border-left: 4px solid $sky-blue-secondary;
+  }
+
+  .notification-risk.active &:first-child {
+    border-left: 4px solid $red-light;
+  }
+
+  .notification-warning.active &:first-child {
+    border-left: 4px solid $yellow-dark;
+  }
+}
+
+.table-row {
+  width: 100%;
+}
+
+.table-header {
+  top: 0;
+  left: 0;
+  position: sticky;
+  z-index: 999;
+}
+
+.table-header-inner {
+  display: flex;
+  align-items: center;
+}
+
+.table-header-title {
+  color: $grey;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.table-filter {
+  flex: none;
+  width: 10px;
+  height: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 5px;
+}
+
+.table-filter-btn {
+  display: flex;
+  height: 4px;
+  border: none;
+  background: transparent;
+}
+
+.table-box {
+  padding: 25px;
+  border-radius: 15px;
+  border: solid 1px rgba(96, 109, 149, 0.2);
+  width: 100%;
+}
+
+.table-dropdown {
+  display: flex;
+  gap: 1rem;
+  background-color: rgba(229, 240, 255, 0.3);
+  padding: 30px;
+}
+
+.table-dropdown-group {
+  padding-left: 52px;
+  background-color: rgba(229, 240, 255, 0.3);
+
+  &.content-stretch {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  } 
+}
+
+.table-dropdown-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.table-dropdown-row {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.table-panel-info {
+  font-size: 14px;
+  font-weight: 500;
+  color: $sky-blue;
+  text-align: center;
+  padding: 12px;
+  background-color: $blue-light;
+}

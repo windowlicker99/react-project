@@ -1,0 +1,25 @@
+version: "3.7"
+
+services:
+    backend:
+      container_name: "csms-backend"
+      image: csms-app
+      build: .
+      volumes:
+        - '.:/app'
+      ports:
+          - 8080:8080
+      command: ["npm", "run", "server"]
+          
+    frontend:
+      container_name: "csms-frontend"
+      image: csms-app
+      depends_on:
+        - backend
+      volumes:
+        - '.:/app' 
+        - '/app/node_modules'   
+      ports:
+          - 3000:3000  
+      command: ["npm", "start"]
+  

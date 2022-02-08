@@ -1,0 +1,47 @@
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+
+    .modal-control &,
+    .tooltip-custom & {
+        margin-bottom: 0;
+    }
+
+    &.center {
+        justify-content: center;
+    }
+}
+
+.heading-title {
+    margin-right: 5px;
+    white-space: nowrap;
+
+    .card-dropdown-comment & {
+        font-size: 14px;
+        font-weight: 600;
+    }
+}
+
+.heading-info {
+    display: flex;
+    align-items: center;
+}
+
+.heading-data {
+    color: $grey;
+
+    .card-dropdown-comment & {
+        font-size: 12px;
+        font-weight: 500;
+    }
+}
+
+.heading-assigne {
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+}

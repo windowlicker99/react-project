@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardCard tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="car-card"
+  >
+    <div
+      class="car-info-img"
+    >
+      <img
+        alt="car-img"
+        class="car-img"
+        src=""
+      />
+      <img
+        alt=""
+        class="car-logo"
+        src=""
+      />
+    </div>
+    <div
+      class="car-info"
+    >
+      <span
+        class="car-name"
+      >
+        test
+      </span>
+      <div
+        class="car-info-item"
+      >
+        <span
+          class="car-property"
+        >
+          Model: 
+        </span>
+        <span
+          class="car-value"
+        >
+          test
+        </span>
+      </div>
+      <div
+        class="car-info-item"
+      >
+        <span
+          class="car-property"
+        >
+          Platform: 
+        </span>
+        <span
+          class="car-value"
+        >
+          Platform
+        </span>
+      </div>
+      <div
+        class="car-info-item"
+      >
+        <span
+          class="car-property"
+        >
+          Сurrent Phase: 
+        </span>
+        <span
+          class="car-value"
+        >
+          Development
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

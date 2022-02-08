@@ -1,0 +1,45 @@
+.card-alert {
+    @extend .box;
+
+    .active & {
+        border: 2px solid $sky-blue;
+    }
+}
+
+.card-alert-header {
+    padding-bottom: 15px;
+    border-bottom: 1px solid $grey-secondary;
+    margin-bottom: 15px;
+}
+
+.card-alert-title {
+    color: $black;
+    font-weight: 600;
+}
+
+.card-alert-subtitle {
+    color: $grey;
+    font-size: 14px;
+}
+
+.card-alert-body {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.card-alert-arrow {
+    display: inline-block;
+    margin: 0 10px;
+    flex: none;
+}
+
+.card-alert-link {
+    display: inline-block;
+    margin-right: 10px;
+    flex: none;
+}
+
+.card-alert-footer {
+    display: flex;
+}

@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <nav
+    class="nav"
+  >
+    <ul
+      class="nav-list"
+    >
+      <li
+        class="nav-item"
+      >
+        <a
+          class="nav-link"
+          href="/"
+        >
+          Item 1
+        </a>
+      </li>
+      <li
+        class="nav-item"
+      >
+        <a
+          class="nav-link"
+          href="/"
+        >
+          Item 2
+        </a>
+      </li>
+      <li
+        class="nav-item"
+      >
+        <a
+          class="nav-link"
+          href="/"
+        >
+          Item 3
+        </a>
+      </li>
+    </ul>
+  </nav>
+</DocumentFragment>
+`;

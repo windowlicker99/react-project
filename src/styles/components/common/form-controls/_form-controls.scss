@@ -1,0 +1,106 @@
+.form-control {
+    border: solid 1px $grey-secondary;
+    border-radius: 6px;
+    height: 42px;
+    background-color: $blue-light;
+    transition: $transition;
+    padding: 12px 14px;
+
+    &:focus,
+    &:hover {
+        &:not(:disabled) {
+            border: solid 1px $sky-blue;
+        }
+    }
+
+    &:disabled.selected {
+        &::placeholder {
+            color: black;
+        }
+    }
+
+    &::placeholder {
+        color: $grey-light;
+        font-size: 12px;
+
+        .error & {
+            color: $red-light;
+        }
+    }
+
+
+    .error & {
+        border: solid 1px $red-light;
+        background-color: rgba(242, 101, 99, 0.15);
+        &:not(:disabled) {
+            border: solid 1px $red-light;
+        }
+    }
+
+    &.textarea {
+        min-height: 100px;
+        max-width: 100%;
+        resize: vertical;
+
+        .table-dropdown-thumb & {
+            width: 420px;
+        }
+    }
+
+    .form-input-switch & {
+        padding-right: 72px;
+    }
+}
+
+.form-label {
+    font-size: 12px;
+    color: $black;
+
+    &:not(:empty) {
+        margin-bottom: 8px;
+    }
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+    .login-form & {
+        margin-bottom: 40px;
+    }
+
+    .damage-content & {
+        margin-bottom: 20px;
+    }
+
+    .modal-control-inner & {
+        flex: 1 1 auto;
+    }
+
+    .controller-info-item & {
+        flex: 1 1 auto;
+        max-width: 300px;
+    }
+
+    .controller-info & {
+        flex: 1 1 auto;
+        max-width: 240px;
+    }
+}
+
+.form-arrow {
+    width: 12px;
+    height: 12px;
+}
+
+.form-wrap {
+    position: relative;
+}
+
+.form-validation {
+    position: absolute;
+    bottom: -17px;
+    font-size: 12px;
+    color: $red-light;
+}

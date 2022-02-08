@@ -1,0 +1,53 @@
+.property {
+  display: flex;
+  font-size: 14px;
+  font-weight: 500;
+
+  &:not(:last-child) {
+    margin-bottom: 10px;
+  }
+
+  .card-aside & {
+    margin-bottom: 15px;
+    justify-content: space-between;
+  }
+
+  .table-info-properties & {
+    margin-right: 10px;
+    padding-right: 10px;
+    margin-bottom: 0;
+    position: relative;
+
+    &:not(:last-child)::after {
+      content: '';
+      position: absolute;
+      display: inline-block;
+      height: 25px;
+      width: 1px;
+      background-color: $grey-secondary;
+      top: 50%;
+      right: 0;
+      transform: translateY(-50%);
+    }
+  }
+
+  .card-dropdown &,
+  .card-alert &  {
+    margin: 0;
+    min-width: 0;
+  }
+}
+
+.property-name {
+  color: $grey;
+  margin-right: 4px;
+  white-space: nowrap;
+  
+  .property-column & {
+    min-width: 180px;
+  }
+}
+
+.property-value {
+  min-width: 0;
+}

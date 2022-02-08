@@ -1,0 +1,71 @@
+.radio-input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.radio-mark {
+    display: inline-block;
+    position: relative;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    border: 1px solid $blue;
+    margin-right: 5px;
+    flex: none;
+}
+
+.radio-label {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+
+.radio-mark:after {
+    content: "";
+    display: none;
+    width: 6px;
+    height: 6px;
+    position: relative;
+    top: 4px;
+    left: 4px;
+    border-radius: 50%;
+    background: $blue;
+
+    .radio-input:checked ~ & {
+        display: block;
+    }
+}
+
+
+.radio-title {
+    font-size: 10px;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.radio-button {
+    flex: 1 1 auto;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+.radio-button-group {
+    border-radius: 7px;
+    border: 1px solid $grey-secondary;
+  }
+  
+  .radio-button-item {
+    display: flex;
+    padding: 17px 30px;
+
+    &:not(:last-child) {
+        border-bottom: 1px solid $grey-secondary;
+    }
+  }

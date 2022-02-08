@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Progressbar tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="progressbar"
+  >
+    <div
+      class="progress-line"
+    >
+      <span
+        class="progress-line-active"
+      />
+    </div>
+    <div
+      class="progress-label"
+    >
+      <span
+        class="progress-info"
+      >
+        info
+      </span>
+      <span
+        class="progress-title"
+      >
+        Title
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

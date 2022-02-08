@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderDropdown Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="header-dropdown"
+    role="presentation"
+  >
+    <div
+      class="avatar-card"
+    >
+      <div
+        class="avatar"
+      >
+        <img
+          alt="avatar"
+          class="avatar-img"
+          src=""
+        />
+      </div>
+      <span
+        class="avatar-name"
+      >
+        John Stone
+      </span>
+    </div>
+    <ul
+      class="header-dropdown-menu inactive"
+    >
+      <li
+        class="header-dropdown-item"
+        role="presentation"
+      >
+        <span
+          class="icon-logout mr-10"
+        />
+        Log out
+      </li>
+    </ul>
+    <span
+      class="icon-arrow-border-down"
+    />
+  </div>
+</DocumentFragment>
+`;

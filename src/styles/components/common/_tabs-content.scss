@@ -1,0 +1,30 @@
+.tab-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    overflow: auto;
+}
+
+.tab-item {
+    &:not(:last-child) {
+        margin-bottom: 15px;
+    }
+}
+
+.tab-panel {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.2;
+
+    .active & {
+        background-color: $blue-light;
+    }
+}
+
+.tab-content-subname {
+    color: $grey;
+}

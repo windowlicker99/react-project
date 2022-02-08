@@ -1,0 +1,31 @@
+.date {
+  display: flex;
+
+  .table & {
+    flex-direction: column;
+  }
+
+  .tooltip-info & {
+    flex-direction: row;
+  }
+}
+
+.date-item {
+  display: flex;
+  align-items: center;
+  margin-right: 8px;
+
+  .table > &:not(:last-child) {
+    margin-bottom: 8px;
+  }
+
+  .tooltip-info & {
+    color: $grey;
+    margin-bottom: 0;
+  }
+}
+
+.date-icon {
+  display: flex;
+  margin-right: 7px;
+}

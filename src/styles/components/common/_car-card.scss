@@ -1,0 +1,66 @@
+.car-card {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.car-info {
+  display: flex;
+}
+
+.car-img {
+  object-fit: cover; // Женя
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.car-info-img {
+  flex: none;
+  position: relative;
+  width: 115px;
+  height: 115px;
+}
+
+.car-logo {
+  object-fit: cover; // Женя
+  position: absolute;
+  right: -16px;
+  bottom: -16px;
+  width: 43px;
+  height: 43px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
+
+.car-name {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 7px;
+}
+
+.car-property {
+  font-size: 14px;
+  font-weight: 500;
+  color: $grey;
+}
+
+.car-value {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.car-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.car-info-item {
+  &:not(:last-child) {
+    margin-bottom: 5px;
+  }
+}

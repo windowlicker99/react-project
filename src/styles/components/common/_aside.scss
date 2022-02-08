@@ -1,0 +1,53 @@
+.aside-holder {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.aside {
+  display: flex;
+  flex-direction: column;
+  background-color: $white;
+  border-radius: 15px;
+  padding: 25px;
+  overflow: auto;
+  width: 364px;
+
+  .aside-holder & {
+    flex: 1 1;
+  }
+
+  &.transparent {
+    background: transparent;
+    padding: 0;
+  }
+}
+
+.aside-item {
+  padding-bottom: 20px;
+  &:not(:first-child) {
+    border-top: 1px solid $grey-secondary;
+    padding-top: 10px;
+  }
+}
+
+.aside-body {
+  flex: 1 1 auto;
+  overflow: auto;
+}
+
+.aside-not-selected-img {
+  width: 160px;
+  height: 160px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top center;
+
+  .successful & {
+      @extend .icon-aside-not-selected;
+  }
+}
+
+.css-26l3qy-menu {
+  z-index: 99999;
+}

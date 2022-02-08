@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ModalCenter tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="modal show"
+  >
+    <div
+      class="modal-content"
+    >
+      <div
+        class="modal-header"
+      >
+        <div
+          class="modal-heading"
+        >
+          <div
+            class="modal-header-content"
+          >
+            <span
+              class="modal-title"
+            >
+              Test
+            </span>
+            <span
+              class="modal-subtitle"
+            />
+          </div>
+          <button
+            class="btn btn-xs-secondary"
+            type="button"
+          >
+            <span
+              class="icon-close"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="modal-body"
+      />
+      <div
+        class="modal-footer"
+      >
+        <div
+          class="btn-group-stretch"
+        >
+          <button
+            class="btn btn-lg-outline mr-15"
+            type="button"
+          >
+            <span
+              class="btn-icon "
+            />
+            <span
+              class="btn-text"
+            >
+              Cancel
+            </span>
+          </button>
+          <button
+            class="btn btn-lg-primary"
+            type="button"
+          >
+            <span
+              class="btn-icon "
+            />
+            <span
+              class="btn-text"
+            >
+              Apply
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

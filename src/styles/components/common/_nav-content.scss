@@ -1,0 +1,12 @@
+.nav-content-btn {
+    width: 100%;
+    text-align: left;
+    padding: 15px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: transparent;
+
+    &.active {
+        background-color: $blue-light-secondary;
+    } 
+}

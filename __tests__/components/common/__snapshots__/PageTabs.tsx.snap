@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageTabs tests Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="page-tabs"
+  >
+    <button
+      class="page-tabs-item"
+      type="button"
+    >
+      Domains
+    </button>
+    <button
+      class="page-tabs-item"
+      type="button"
+    >
+      ECUs
+    </button>
+    <button
+      class="page-tabs-item"
+      type="button"
+    >
+      Functions
+    </button>
+    <button
+      class="page-tabs-item"
+      type="button"
+    >
+      Data
+    </button>
+  </div>
+</DocumentFragment>
+`;

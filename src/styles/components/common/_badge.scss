@@ -1,0 +1,54 @@
+.badge {
+  width: 110px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 17px;
+
+  .page-controls-data & {
+    margin-left: 10px;
+  }
+
+  &.danger {
+    background-color: $red-light-secondary;
+    color: $red;
+  }
+
+  &.warning-danger {
+    background-color: $orange;
+    color: $orange-dark;
+  }
+
+  &.warning {
+    background-color: $yellow-light;
+    color: $yellow-dark;
+  }
+
+  &.success {
+    background-color: $green-light;
+    color: $green;
+  }
+
+  &.primary {
+    background-color: $blue-light;
+    color: $blue;
+  }
+
+  &.default {
+    background-color: $blue-light;
+    color: $grey;
+  }
+}
+
+.badge-group {
+  display: flex;
+  align-items: center;
+}
+
+.badge-group-labe {
+  font-size: 14px;
+  font-weight: 500;
+  color: $grey;
+  margin-right: 15px;
+}

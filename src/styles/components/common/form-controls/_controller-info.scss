@@ -1,0 +1,32 @@
+.controller-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+    width: 100%;
+
+    &:not(:last-child) {
+        margin-bottom: 20px;
+        border-bottom: 1px solid $grey-secondary;
+    }
+
+    .card-dropdown-header & {
+        padding-bottom: 0;
+    }
+
+    .card-dropdown-item & {
+        border-bottom: none;
+        padding-bottom: 20px;
+    
+        &:not(:last-child) {
+            margin-bottom: 0
+        }
+    }
+}
+
+.controller-info-item {
+    margin-bottom: 20px;
+    &:not(:last-child) {
+        border-bottom: 1px solid $grey-secondary;
+    }
+}

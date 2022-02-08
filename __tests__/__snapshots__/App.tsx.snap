@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component tests Should match shapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="page-container is-open"
+  >
+    <div
+      class="login-image"
+    >
+      <a
+        class="logo"
+        href="/"
+      >
+        <span
+          class="icon-logo"
+        />
+      </a>
+    </div>
+    <div
+      class="login-content"
+    >
+      <form
+        action="#"
+        class="login-form"
+      >
+        <span
+          class="login-title"
+        >
+          Login to start
+        </span>
+        <div
+          class="form-wrap"
+        >
+          <div
+            class="form-group"
+          >
+            <label
+              class="form-label"
+            >
+              Username
+            </label>
+            <input
+              autocomplete="on"
+              class="form-control"
+              form="[object Object]"
+              id="name"
+              maxlength="15"
+              name="name"
+              placeholder="Enter Username"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          class="form-wrap"
+        >
+          <div
+            class="form-group"
+          >
+            <label
+              class="form-label"
+            >
+              Password
+            </label>
+            <input
+              autocomplete="on"
+              class="form-control"
+              form="[object Object]"
+              id="password"
+              maxlength="50"
+              name="password"
+              placeholder="Enter Password"
+              type="password"
+              value=""
+            />
+          </div>
+        </div>
+        <button
+          class="btn btn-lg-primary mb-30"
+          disabled=""
+          type="submit"
+        >
+          <span
+            class="btn-icon "
+          />
+          <span
+            class="btn-text"
+          >
+            Log In
+          </span>
+        </button>
+        <div
+          class="d-flex justify-content-end"
+        >
+          <a
+            class="link"
+            href="#"
+          >
+            <span
+              class="nill mr-7"
+            />
+            Forgot Password?
+          </a>
+        </div>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,47 @@
+.tickets {
+  padding: 20px 15px;
+}
+
+.tickets-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.tickets-title,
+.tickets-subtitle {
+  display: inline-block;
+  flex: 1 1;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.tickets-mark {
+  display: block;
+  height: 2px;
+  width: 25px;
+  margin: 15px 0px;
+
+  .open & {
+    background-color: $blue;
+  }
+
+  .progress & {
+    background-color: $yellow-dark;
+  }
+
+  .closed & {
+    background-color: $green;
+  }
+
+  .deleted & {
+    background-color: $red-light;
+  }
+}
+
+.tickets-body {
+  margin-bottom: 20px;
+  font-weight: 500;
+}
